@@ -7,7 +7,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-article-collection?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
 [![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft)
 
-Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles. You are welcome to participate by sending a PR. ⚡⚡⚡
+Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles for the `Article Streak Challenge`, learn more [here](https://twitter.com/olanetsoft/status/1610590126928699393?s=20&t=rNk-nZu9ke7y5VsHP4ThEA). You are welcome to participate by sending a PR. ⚡⚡⚡
 
 We are excited to announce this new open-source repository, and we are calling on all developers, both experienced and new, Content creators, designers, project/product managers, cyber security experts, data analyst, Tech lawyer and other tech fields to contribute and star the repository.
 
