@@ -19,3 +19,14 @@ Contents are added frequently! ⚡
 
 ---
 
+
+
+### Thanks to all Contributors 💪 
+
+Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-article-collection)](https://github.com/Olanetsoft/awesome-article-collection/edit/main/README.md)
+
+### Thanks to all Stargazers ⭐️
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-article-collection?limit=15)](https://github.com/Olanetsoft/awesome-article-collection)
