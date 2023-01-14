@@ -1,10 +1,10 @@
 # Awesome Article Collection
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://github.com/Olanetsoft/awesome-article-collection/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/awesome-article-collection)
-[![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection)
-[![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-hackathon-projects?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
+[![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/awesome-article-collection?style=plastic)](https://github.com/Olanetsoft/awesome-article-collection/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/Olanetsoft/awesome-article-collection?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/awesome-article-collection)
+[![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/Olanetsoft/awesome-article-collections?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection)
+[![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/Olanetsoft/awesome-article-collection?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
 [![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft)
 
 Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles. You are welcome to participate by sending a PR. ⚡⚡⚡
