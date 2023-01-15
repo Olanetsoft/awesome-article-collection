@@ -18,36 +18,31 @@ Starring our repository ⭐ is also a great way to show your support and help us
 Contents are added frequently! ⚡
 
 ---
+## Table of Contents
 
-<!-- Create a beautiful table -->
-
-## Categories
-
-- [Awesome Article Collection](#awesome-article-collection)
-	- [Categories](#categories)
-	- [Blockchain](#blockchain)
-	- [Cyber Security](#cyber-security)
-	- [Data Science](#data-science)
-	- [Design](#design)
-	- [Developer Tools](#developer-tools)
-	- [DevOps](#devops)
-	- [Economics](#economics)
-	- [Education](#education)
-	- [Finance](#finance)
-	- [Gaming](#gaming)
-	- [Health](#health)
-	- [Internet of Things](#internet-of-things)
-	- [Machine Learning](#machine-learning)
-	- [Marketing](#marketing)
-	- [Mobile](#mobile)
-	- [Productivity](#productivity)
-	- [Programming](#programming)
-	- [Project Management](#project-management)
-	- [Science](#science)
-	- [Software Engineering](#software-engineering)
-	- [Startups](#startups)
-		- [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
-		- [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
+- [Blockchain](#blockchain)
+- [Cyber Security](#cyber-security)
+- [Data Science](#data-science)
+- [Design](#design)
+- [Developer Tools](#developer-tools)
+- [DevOps](#devops)
+- [Economics](#economics)
+- [Education](#education)
+- [Finance](#finance)
+- [Gaming](#gaming)
+- [Health](#health)
+- [Internet of Things](#internet-of-things)
+- [Machine Learning](#machine-learning)
+- [Marketing](#marketing)
+- [Mobile](#mobile)
+- [Productivity](#productivity)
+- [Programming](#programming)
+- [Project Management](#project-management)
+- [Science](#science)
+- [Software Engineering](#software-engineering)
+- [Startups](#startups)
+- [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
+- [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
 
 ---
 
