@@ -29,7 +29,7 @@ Contents are added frequently! ⚡
 
 ### Thanks to all Contributors 💪 
 
-Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
+Thanks a lot for spending your time helping `Awesome Article Collection` grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-article-collection)](https://github.com/Olanetsoft/awesome-article-collection/edit/main/README.md)
 
