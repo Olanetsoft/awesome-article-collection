@@ -48,8 +48,8 @@ Contents are added frequently! ⚡
 
 ## Blockchain
 
-| Article Title                                                                                                                                           | Author                                       | Article Link                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| Article Title   | Author      | Article    |
+| --------------- | ----------- | ---------- |
 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
 
 ---
