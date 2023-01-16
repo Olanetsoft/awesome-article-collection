@@ -18,10 +18,8 @@ Starring our repository ⭐ is also a great way to show your support and help us
 Contents are added frequently! ⚡
 
 ---
-## Table of Contents
 
-- [Awesome Article Collection](#awesome-article-collection)
-  - [Table of Contents](#table-of-contents)
+## Table of Contents
   - [Blockchain](#blockchain)
   - [Cyber Security](#cyber-security)
   - [Data Science](#data-science)
@@ -43,24 +41,27 @@ Contents are added frequently! ⚡
   - [Science](#science)
   - [Software Engineering](#software-engineering)
   - [Startups](#startups)
-    - [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
-    - [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
+  - [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
+  - [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
 
 ---
 
 ## Blockchain
-| Article Title                                                                                                                                           | Author                                        | Article Link                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft]( https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
+
+| Article Title                                                                                                                                           | Author                                       | Article Link                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
 
 ---
 
 ## Cyber Security
+
 | Week Number | Article Title | Author | Article Link |
-| ------------| ------------- | ------ | ------------ |
+| ----------- | ------------- | ------ | ------------ |
 |             |               |        |              |
 
 ## Data Science
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -68,6 +69,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Design
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -75,6 +77,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Developer Tools
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -82,6 +85,7 @@ Contents are added frequently! ⚡
 ---
 
 ## DevOps
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -89,6 +93,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Economics
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -96,6 +101,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Education
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -103,6 +109,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Finance
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -110,6 +117,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Gaming
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -117,6 +125,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Health
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -124,6 +133,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Internet of Things
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -131,6 +141,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Machine Learning
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -138,6 +149,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Marketing
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -145,6 +157,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Mobile
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -152,6 +165,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Productivity
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -159,6 +173,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Programming
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -166,6 +181,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Project Management
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -173,6 +189,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Science
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -180,6 +197,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Software Engineering
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
@@ -187,12 +205,12 @@ Contents are added frequently! ⚡
 ---
 
 ## Startups
+
 | Article Title | Author | Article Link |
 | ------------- | ------ | ------------ |
 |               |        |              |
 
-
-### Thanks to all Contributors 💪 
+### Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping `Awesome Article Collection` grow. Happy Hacking 🍻
 
