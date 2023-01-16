@@ -18,181 +18,198 @@ Starring our repository ⭐ is also a great way to show your support and help us
 Contents are added frequently! ⚡
 
 ---
-## Table of Contents
 
-- [Blockchain](#blockchain)
-- [Cyber Security](#cyber-security)
-- [Data Science](#data-science)
-- [Design](#design)
-- [Developer Tools](#developer-tools)
-- [DevOps](#devops)
-- [Economics](#economics)
-- [Education](#education)
-- [Finance](#finance)
-- [Gaming](#gaming)
-- [Health](#health)
-- [Internet of Things](#internet-of-things)
-- [Machine Learning](#machine-learning)
-- [Marketing](#marketing)
-- [Mobile](#mobile)
-- [Productivity](#productivity)
-- [Programming](#programming)
-- [Project Management](#project-management)
-- [Science](#science)
-- [Software Engineering](#software-engineering)
-- [Startups](#startups)
-- [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
-- [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
+## Table of Contents
+  - [Blockchain](#blockchain)
+  - [Cyber Security](#cyber-security)
+  - [Data Science](#data-science)
+  - [Design](#design)
+  - [Developer Tools](#developer-tools)
+  - [DevOps](#devops)
+  - [Economics](#economics)
+  - [Education](#education)
+  - [Finance](#finance)
+  - [Gaming](#gaming)
+  - [Health](#health)
+  - [Internet of Things](#internet-of-things)
+  - [Machine Learning](#machine-learning)
+  - [Marketing](#marketing)
+  - [Mobile](#mobile)
+  - [Productivity](#productivity)
+  - [Programming](#programming)
+  - [Project Management](#project-management)
+  - [Science](#science)
+  - [Software Engineering](#software-engineering)
+  - [Startups](#startups)
+  - [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
+  - [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
 
 ---
 
 ## Blockchain
-| Article Title                                                                                                                                           | Author                                        | Article Link                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft]( https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
+
+| Week Number | Article Title   | Author      | Article    |
+| ----------- | --------------- | ----------- | ---------- |
+| | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
 
 ---
 
 ## Cyber Security
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
 
----
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ## Data Science
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
 
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 ---
 
 ## Design
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Developer Tools
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|      1      |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|
 
 ---
 
 ## DevOps
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Economics
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Education
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Finance
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Gaming
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Health
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Internet of Things
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Machine Learning
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Marketing
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Mobile
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Productivity
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Programming
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Project Management
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Science
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Software Engineering
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
+
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
 ---
 
 ## Startups
-| Article Title | Author | Article Link |
-| ------------- | ------ | ------------ |
-|               |        |              |
 
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|             |               |        |              |
 
-### Thanks to all Contributors 💪 
+### Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping `Awesome Article Collection` grow. Happy Hacking 🍻
 
