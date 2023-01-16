@@ -5,9 +5,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/awesome-article-collection?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/awesome-article-collection)
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-article-collection?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
-[![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft)
 
-Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles for the `Article Streak Challenge`, learn more [here](https://twitter.com/olanetsoft/status/1610590126928699393?s=20&t=rNk-nZu9ke7y5VsHP4ThEA). You are welcome to participate by sending a PR. ⚡⚡⚡
+Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles for the `Article Streak Challenge`, led by [Olanetsoft](http://twitter.com/olanetsoft) learn more [here](https://twitter.com/olanetsoft/status/1610590126928699393?s=20&t=rNk-nZu9ke7y5VsHP4ThEA). You are welcome to participate by sending a PR. ⚡⚡⚡
 
 We are excited to announce this new open-source repository, and we are calling on all developers, both experienced and new, Content creators, designers, project/product managers, cyber security experts, data analyst, Tech lawyer and other tech fields to contribute and star the repository.
 
@@ -20,29 +19,29 @@ Contents are added frequently! ⚡
 ---
 
 ## Table of Contents
-  - [Blockchain](#blockchain)
-  - [Cyber Security](#cyber-security)
-  - [Data Science](#data-science)
-  - [Design](#design)
-  - [Developer Tools](#developer-tools)
-  - [DevOps](#devops)
-  - [Economics](#economics)
-  - [Education](#education)
-  - [Finance](#finance)
-  - [Gaming](#gaming)
-  - [Health](#health)
-  - [Internet of Things](#internet-of-things)
-  - [Machine Learning](#machine-learning)
-  - [Marketing](#marketing)
-  - [Mobile](#mobile)
-  - [Productivity](#productivity)
-  - [Programming](#programming)
-  - [Project Management](#project-management)
-  - [Science](#science)
-  - [Software Engineering](#software-engineering)
-  - [Startups](#startups)
-  - [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
-  - [Thanks to all Stargazers ⭐️](#thanks-to-all-stargazers-️)
+- [Blockchain](#blockchain)
+- [Cyber Security](#cyber-security)
+- [Data Science](#data-science)
+- [Design](#design)
+- [Developer Tools](#developer-tools)
+- [DevOps](#devops)
+- [Economics](#economics)
+- [Education](#education)
+- [Finance](#finance)
+- [Gaming](#gaming)
+- [Health](#health)
+- [Internet of Things](#internet-of-things)
+- [Machine Learning](#machine-learning)
+- [Marketing](#marketing)
+- [Mobile](#mobile)
+- [Productivity](#productivity)
+- [Programming](#programming)
+- [Project Management](#project-management)
+- [Science](#science)
+- [Software Engineering](#software-engineering)
+- [Startups](#startups)
+- [Contributors 💪](#contributors)
+- [Stargazers ⭐️](#stargazers-)
 
 ---
 
@@ -50,7 +49,7 @@ Contents are added frequently! ⚡
 
 | Week Number | Article Title   | Author      | Article    |
 | ----------- | --------------- | ----------- | ---------- |
-| | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
+| 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2021-03-31 |
 
 ---
 
@@ -209,7 +208,7 @@ Contents are added frequently! ⚡
 | ----------- | ------------- | ------ | ------------ |
 |             |               |        |              |
 
-### Thanks to all Contributors 💪
+### Contributors 💪
 
 Thanks a lot for spending your time helping `Awesome Article Collection` grow. Happy Hacking 🍻
 
@@ -217,4 +216,4 @@ Thanks a lot for spending your time helping `Awesome Article Collection` grow. H
 
 ### Thanks to all Stargazers ⭐️
 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-article-collection?limit=15)](https://github.com/Olanetsoft/awesome-article-collection)
+[![Stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-article-collection?limit=15)](https://github.com/Olanetsoft/awesome-article-collection)
