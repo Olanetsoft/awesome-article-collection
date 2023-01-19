@@ -1,0 +1,19 @@
+{
+  "name": "awesome-article-streak",
+  "version": "1.0.0",
+  "description": "Awesome Article Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/awesome-article-streak.git"
+  },
+  "author": "Idris Olubisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/awesome-article-streak/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/awesome-article-streak#readme"
+}
