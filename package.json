@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Olanetsoft/awesome-article-streak/issues"
   },
-  "homepage": "https://github.com/Olanetsoft/awesome-article-streak#readme"
+  "homepage": "https://github.com/Olanetsoft/awesome-article-streak#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
