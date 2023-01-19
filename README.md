@@ -48,31 +48,31 @@ Contents are added frequently! ⚡
 
 ## Blockchain
 
-| Week Number | Article Title   | Author      | Article    |
-| ----------- | --------------- | ----------- | ---------- |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
 | 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
-| 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-1 |
+| 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
 
 ---
 
 ## Cyber Security
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ## Data Science
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 ---
 
 ## Design
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
@@ -86,129 +86,129 @@ Contents are added frequently! ⚡
 
 ## DevOps
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Economics
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Education
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Finance
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Gaming
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Health
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Internet of Things
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Machine Learning
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Marketing
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+|| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Mobile
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Productivity
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Programming
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Project Management
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Science
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Software Engineering
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Startups
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|             |               |        |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ## Contributors 💪
 
