@@ -150,7 +150,7 @@ Contents are added frequently! ⚡
 
 ## Marketing
 
-|| Week Number | Article Title   | Author      | Article    | Article Date |
+| Week Number | Article Title   | Author      | Article    | Article Date |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
