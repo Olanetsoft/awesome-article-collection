@@ -6,6 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-article-collection?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
 
+
 Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles for the `Article Streak Challenge`, led by [Olanetsoft](http://twitter.com/olanetsoft) learn more [here](https://twitter.com/olanetsoft/status/1610590126928699393?s=20&t=rNk-nZu9ke7y5VsHP4ThEA). You are welcome to participate by sending a PR. ⚡⚡⚡
 
 We are excited to announce this new open-source repository, and we are calling on all developers, both experienced and new, Content creators, designers, project/product managers, cyber security experts, data analyst, Tech lawyer and other tech fields to contribute and star the repository.
@@ -19,7 +20,6 @@ Contents are added frequently! ⚡
 ---
 
 ## Table of Contents
-
 - [Blockchain](#blockchain)
 - [Cyber Security](#cyber-security)
 - [Data Science](#data-science)
@@ -48,169 +48,168 @@ Contents are added frequently! ⚡
 
 ## Blockchain
 
-| Week Number | Article Title                                                                                                                                                         | Author                                       | Article                                                                                                    | Article Date |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
-| 1           | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom)               | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom)           | 2023-01-10   |
-| 2           | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)    | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)     | 2023-01-19   |
-| 3           | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man)      | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19   |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+| 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
+| 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
+| 3 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 |
 
 ---
 
 ## Cyber Security
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ## Data Science
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
-
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 ---
 
 ## Design
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Developer Tools
 
-| Week Number | Article Title                                                                                                                        | Author                                               | Article Link                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1           | [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) |
+| Week Number | Article Title | Author | Article Link |
+| ----------- | ------------- | ------ | ------------ |
+|      1      |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|
 
 ---
 
 ## DevOps
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Economics
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Education
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Finance
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Gaming
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Health
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Internet of Things
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Machine Learning
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Marketing
 
-|     | Week Number | Article Title | Author | Article | Article Date |
-| --- | ----------- | ------------- | ------ | ------- | ------------ |
-|     |             |               |        |         |
+|| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Mobile
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Productivity
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Programming
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Project Management
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Science
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Software Engineering
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ---
 
 ## Startups
 
-| Week Number | Article Title | Author | Article | Article Date |
-| ----------- | ------------- | ------ | ------- | ------------ |
-|             |               |        |         |              |
+| Week Number | Article Title   | Author      | Article    | Article Date |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|             |               |        |              |	              |
 
 ## Contributors 💪
 
