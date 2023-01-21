@@ -91,6 +91,7 @@ Contents are added frequently! ⚡
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)| 2021-01-9 | 1 |
+|[How to Build a Tip Calculator with HTML, CSS and JavaScript](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | 2023-01-12 | 2 |
 
 ---
 
