@@ -70,7 +70,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Preventing CSRF Attacks on Your Website](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Teslim Odumuyiwa](https://twitter.com/)    | [Link](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07   | 1           |
 
 ## Data Science
 
