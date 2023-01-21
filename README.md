@@ -180,6 +180,7 @@ Contents are added frequently! ⚡
 | Article Title                                                                                                                | Author                                                   | Article                                                                              | Article Date | Week Number |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------ | ----------- |
 | [10 Free Notion Templates You Should Be Using](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | 2023-01-21   | 3           |
+| [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophyia](https://twitter.com/) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 1           |
 
 ---
 
