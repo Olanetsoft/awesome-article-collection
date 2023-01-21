@@ -20,6 +20,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Table of Contents
+- [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Cyber Security](#cyber-security)
 - [Data Science](#data-science)
@@ -46,33 +47,39 @@ Contents are added frequently! ⚡
 
 ---
 
+## Artificial Intelligence
+
+| Article Title   | Author      | Article    | Article Date | Week Number |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+| | | | | |
+
 ## Blockchain
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-| 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
-| 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
-| 3 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 |
-| 4 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 |
+| [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 | 1 |
+| [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 | 2 |
+| [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 | 3 |
+|[Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 | 4 | 
 
 ---
 
 ## Cyber Security
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
 ## Data Science
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 ---
 
 ## Design
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -80,15 +87,16 @@ Contents are added frequently! ⚡
 
 ## Developer Tools
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
-|      1      |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|
+
+| Article Title   | Author      | Article    | Article Date | Week Number |
+| ----------- | --------------- | ----------- | ---------- | ------------ |
+|[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)| 2021-01-9 | 1 |
 
 ---
 
 ## DevOps
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -96,7 +104,7 @@ Contents are added frequently! ⚡
 
 ## Economics
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -104,7 +112,7 @@ Contents are added frequently! ⚡
 
 ## Education
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -112,7 +120,7 @@ Contents are added frequently! ⚡
 
 ## Finance
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -120,7 +128,7 @@ Contents are added frequently! ⚡
 
 ## Gaming
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -128,7 +136,7 @@ Contents are added frequently! ⚡
 
 ## Health
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -136,7 +144,7 @@ Contents are added frequently! ⚡
 
 ## Internet of Things
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -144,7 +152,7 @@ Contents are added frequently! ⚡
 
 ## Machine Learning
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -152,7 +160,7 @@ Contents are added frequently! ⚡
 
 ## Marketing
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -160,15 +168,14 @@ Contents are added frequently! ⚡
 
 ## Mobile
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
-
 ---
 
 ## Productivity
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -176,7 +183,7 @@ Contents are added frequently! ⚡
 
 ## Programming
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -184,7 +191,7 @@ Contents are added frequently! ⚡
 
 ## Project Management
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -192,7 +199,7 @@ Contents are added frequently! ⚡
 
 ## Science
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -200,7 +207,7 @@ Contents are added frequently! ⚡
 
 ## Software Engineering
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
@@ -208,7 +215,7 @@ Contents are added frequently! ⚡
 
 ## Startups
 
-| Week Number | Article Title   | Author      | Article    | Article Date |
+| Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 |             |               |        |              |	              |
 
