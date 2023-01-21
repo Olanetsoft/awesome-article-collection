@@ -62,6 +62,7 @@ Contents are added frequently! ⚡
 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man)              | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19   | 3           |
 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma)          | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma)         | 2023-01-18   | 4           |
 | [How to Build and Deploy a USDC-based Crowdfund Smart Contract](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)          | [Chinwizu](https://twitter.com/chinwizu)             | [Link](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)        | 2023-01-20   | 3           |
+| [Solidity Arrays - How to Use Them in Your Smart Contracts](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Superhero](https://twitter.com/)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-07   | 1           |
 
 ---
 
