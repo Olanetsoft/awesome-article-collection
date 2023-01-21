@@ -53,6 +53,7 @@ Contents are added frequently! ⚡
 | 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
 | 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
 | 3 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 |
+| 4 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 |
 
 ---
 
