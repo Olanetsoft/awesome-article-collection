@@ -93,6 +93,7 @@ Contents are added frequently! ⚡
 | Article Title                                                                                                                        | Author                                               | Article                                                                        | Article Date | Week Number |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ | ------------ | ----------- |
 | [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | 2021-01-9    | 1           |
+| [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2021-01-09    | 1           |
 
 ---
 
