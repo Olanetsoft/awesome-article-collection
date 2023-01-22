@@ -85,6 +85,7 @@ Contents are added frequently! ⚡
 | ----------- | ------------- | ------ | ------------ | -------------- |
 |      1      |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|
 |      3    |[A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)|[DrPrime01](https://twitter.com/theDocWhoCodes)|[Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)| 2023-01-21
+|      3    |[How to Build a Restful API With NestJs, KnexJs, and ObjectionJs](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)|[Mubarak Muhammad](https://twitter.com/200OKDeveloper)|[Link](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)| 2023-01-21
 
 ---
 
