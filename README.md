@@ -53,7 +53,7 @@ Contents are added frequently! ⚡
 | 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
 | 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
 | 3 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 |
-| 4 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 |
+| 3 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 |
 
 ---
 
@@ -80,9 +80,10 @@ Contents are added frequently! ⚡
 
 ## Developer Tools
 
-| Week Number | Article Title | Author | Article Link |
-| ----------- | ------------- | ------ | ------------ |
+| Week Number | Article Title | Author | Article Link | Article Date   |
+| ----------- | ------------- | ------ | ------------ | -------------- |
 |      1      |[How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|[Segun Ajibola](https://twitter.com/iamsegunajibola)|[Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)|
+|      3    |[A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)|[DrPrime01](https://twitter.com/theDocWhoCodes)|[Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)| 2023-01-21
 
 ---
 
