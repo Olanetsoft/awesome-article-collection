@@ -23,7 +23,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format && git pull upstream main && echo 'pre-commit'"    }
+      "pre-commit": "npm run format:fix && git pull upstream main && echo 'pre-commit'"    }
   },
   "devDependencies": {
     "markdownlint": "^0.27.0",
