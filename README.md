@@ -42,6 +42,7 @@ Contents are added frequently! ⚡
 - [Science](#science)
 - [Software Engineering](#software-engineering)
 - [Startups](#startups)
+- [Web Resources](#web-resources)
 - [Contributors 💪](#contributors)
 - [Stargazers ⭐️](#stargazers-)
 
@@ -197,8 +198,6 @@ Contents are added frequently! ⚡
 | [How to Build a Tip Calculator with HTML, CSS and JavaScript](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | 2023-01-12   | 2           |
 | [Tradeoffs to Consider Before Selecting a CSS Framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)         | [Code Prophet](https://twitter.com/koliko_man)           | [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)    | 2023-01-16   | 3           |
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Tsegsxaviers](https://twitter.com)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   | 1           |
-| [Tradeoffs to consider before selecting a CSS framework☄️🌚](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)         | [Koliko](https://hashnode.com/@Koliko)           | [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)    | 2023-01-16   | 3           |
-
 
 ---
 
@@ -228,6 +227,12 @@ Contents are added frequently! ⚡
 ---
 
 ## Startups
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+|               |        |         |              |             |
+
+## Web Resources
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
