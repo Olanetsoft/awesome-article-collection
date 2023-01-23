@@ -6,7 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-article-collection)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-article-collection?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-article-collection)
 
-
 Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles for the `Article Streak Challenge`, led by [Olanetsoft](http://twitter.com/olanetsoft) learn more [here](https://twitter.com/olanetsoft/status/1610590126928699393?s=20&t=rNk-nZu9ke7y5VsHP4ThEA). You are welcome to participate by sending a PR. ⚡⚡⚡
 
 We are excited to announce this new open-source repository, and we are calling on all developers, both experienced and new, Content creators, designers, project/product managers, cyber security experts, data analyst, Tech lawyer and other tech fields to contribute and star the repository.
@@ -20,6 +19,7 @@ Contents are added frequently! ⚡
 ---
 
 ## Table of Contents
+
 - [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Cyber Security](#cyber-security)
@@ -60,7 +60,7 @@ Contents are added frequently! ⚡
 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 | 1 |
 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 | 2 |
 | [Hashing in Blockchain Technology: How it Ensures Data Integrity](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | [Josh](https://twitter.com/josh_my_man) | [Link](https://adesanyajoshua.hashnode.dev/hashing-in-blockchain-technology-how-it-ensures-data-integrity) | 2023-01-19 | 3 |
-|[Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 | 4 | 
+|[Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma) | 2023-01-18 | 4 |
 
 ---
 
@@ -68,25 +68,24 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ## Data Science
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 ---
 
 ## Design
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
 ## Developer Tools
-
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
@@ -98,7 +97,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -106,7 +105,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -114,7 +113,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -122,7 +121,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -130,7 +129,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -138,7 +137,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -146,7 +145,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -154,7 +153,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -162,7 +161,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -170,14 +169,14 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 ---
 
 ## Productivity
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -185,7 +184,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -193,7 +192,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -201,7 +200,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -209,7 +208,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ---
 
@@ -217,7 +216,7 @@ Contents are added frequently! ⚡
 
 | Article Title   | Author      | Article    | Article Date | Week Number |
 | ----------- | --------------- | ----------- | ---------- | ------------ |
-|             |               |        |              |	              |
+|             |               |        |              |               |
 
 ## Contributors 💪
 

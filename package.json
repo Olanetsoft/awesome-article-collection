@@ -1,0 +1,34 @@
+{
+  "name": "awesome-article-streak",
+  "version": "1.0.0",
+  "description": "Awesome article collection",
+  "main": "index.js",
+  "scripts": {
+    "format": "markdownlint README.md",
+    "format:fix": "markdownlint README.md --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/awesome-article-streak.git"
+  },
+  "author": "Idris Olubisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/awesome-article-streak/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/awesome-article-streak#readme",
+  "dependencies": {
+    "husky": "^8.0.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run format && echo 'pre-commit'",
+      "pre-push": "git pull upstream main && echo 'pre-push'"
+    }
+  },
+  "devDependencies": {
+    "markdownlint": "^0.27.0",
+    "markdownlint-cli": "^0.33.0"
+  }
+}
