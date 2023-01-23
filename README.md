@@ -64,6 +64,7 @@ Contents are added frequently! ⚡
 | [Why We Need Layer 2 Solutions to Solve the Blockchain Trilemma](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma)          | [Aishat Muhammed](https://twitter.com/fav_watchgirl) | [Link](https://ayeesh.hashnode.dev/why-we-need-layer-2-solutions-to-solve-the-blockchain-trilemma)         | 2023-01-18   | 4           |
 | [How to Build and Deploy a USDC-based Crowdfund Smart Contract](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)          | [Chinwizu](https://twitter.com/chinwizu)             | [Link](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)        | 2023-01-20   | 3           |
 | [Solidity Arrays - How to Use Them in Your Smart Contracts](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Superhero](https://twitter.com/)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-07   | 1           |
+| [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets)          | [Bisola](https://hashnode.com/@BissyK)             | [Link](https://bisolakayode.hashnode.dev/web3-wallets)        | 2023-01-20   | 3         |
 
 ---
 
@@ -96,6 +97,7 @@ Contents are added frequently! ⚡
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ | ------------ | ----------- |
 | [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | 2021-01-9    | 1           |
 | [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2021-01-09    | 1           |
+| [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2021-01-21   | 3         |
 
 
 ---
@@ -186,6 +188,7 @@ Contents are added frequently! ⚡
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------ | ----------- |
 | [10 Free Notion Templates You Should Be Using](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | 2023-01-21   | 3           |
 | [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophyia](https://twitter.com/) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 1           |
+| [Work-Life Balance- A big myth?](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | [Comfort-Mary Ogidi](https://medium.com/@comfortogidimary) | [Link](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | 2023-01-16   | 3           |
 
 ---
 
@@ -221,6 +224,7 @@ Contents are added frequently! ⚡
 | ------------- | ------ | ------- | ------------ | ----------- |
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
 | [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
+| [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
 
 ---
 
