@@ -149,7 +149,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
 
 ---
 
