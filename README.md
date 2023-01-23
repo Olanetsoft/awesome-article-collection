@@ -65,6 +65,7 @@ Contents are added frequently! ⚡
 | [How to Build and Deploy a USDC-based Crowdfund Smart Contract](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)          | [Chinwizu](https://twitter.com/chinwizu)             | [Link](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)        | 2023-01-20   | 3           |
 | [Solidity Arrays - How to Use Them in Your Smart Contracts](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Superhero](https://twitter.com/)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-07   | 1           |
 | [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets)          | [Bisola](https://hashnode.com/@BissyK)             | [Link](https://bisolakayode.hashnode.dev/web3-wallets)        | 2023-01-20   | 3         |
+| [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye](https://twitter.com/only_nenye)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3         |
 
 ---
 
