@@ -52,7 +52,7 @@ Contents are added frequently! ⚡
 | ----------- | --------------- | ----------- | ---------- | ------------ |
 | 1 | [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom) | 2023-01-10 |
 | 2 | [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript) | 2023-01-19 |
-| 3 | [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets) | [Bisola](https://twitter.com/olanetsoft) | [Link](https://bisolakayode.hashnode.dev/web3-wallets) | 2023-01-20 |
+| 3 | [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets) | [Bisola](https://hashnode.com/@BissyK) | [Link](https://bisolakayode.hashnode.dev/web3-wallets) | 2023-01-20 |
 
 ---
 
