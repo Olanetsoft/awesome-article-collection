@@ -42,6 +42,7 @@ Contents are added frequently! ⚡
 - [Science](#science)
 - [Software Engineering](#software-engineering)
 - [Startups](#startups)
+- [Web Resources](#web-resources)
 - [Contributors 💪](#contributors)
 - [Stargazers ⭐️](#stargazers-)
 
@@ -228,10 +229,15 @@ Contents are added frequently! ⚡
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
 | [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
 | [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
-
 ---
 
 ## Startups
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+|               |        |         |              |             |
+
+## Web Resources
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
