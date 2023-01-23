@@ -67,8 +67,6 @@ Contents are added frequently! ⚡
 | [Solidity Arrays - How to Use Them in Your Smart Contracts](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Superhero](https://twitter.com/)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-07   | 1           |
 | [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl Meets Tech](https://hashnode.com/@lilibelkay)             | [Link](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2           |
 
-
-
 ---
 
 ## Cyber Security
