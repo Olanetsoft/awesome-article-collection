@@ -236,8 +236,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-| [14+ Best Freelance Websites to Find Work in 2023
-](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | [Kelvin Moses](https://hashnode.com/@Kelv) | [Link](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | 2023-01-14   | 2           |
+| [14+ Best Freelance Websites to Find Work in 2023](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | [Kelvin Moses](https://hashnode.com/@Kelv) | [Link](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | 2023-01-14   | 2           |
 
 ## Contributors 💪
 
