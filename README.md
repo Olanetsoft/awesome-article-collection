@@ -205,6 +205,7 @@ Contents are added frequently! ⚡
 | [How to Build a Restful API With NestJs, KnexJs, and ObjectionJs](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)         | [Mubarak Muhammed](https://twitter.com/200OKDeveloper)           | [Link](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)    | 2023-01-21   | 3           |
 | [User Authentication With Firebase Auth and Realtime Database.](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)         | [Anukam chidalu
 ](https://twitter.com/TochiClemas)           | [Link](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)    | 2023-01-20   | 3           |
+| [https://www.educative.io/answers/variables-expressions-and-statements-in-julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
 
 ---
 
