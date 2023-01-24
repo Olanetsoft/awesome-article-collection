@@ -125,7 +125,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2021-01-20         |     3        |
 
 ---
 
