@@ -181,7 +181,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Searching a LazyColumn made easys](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)         | [Musa Abdullahi](https://medium.com/@musabdulhim3)           | [Link](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)    | 2023-01-20   | 3           |
 
 ---
 
@@ -204,7 +204,7 @@ Contents are added frequently! ⚡
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Tsegsxaviers](https://twitter.com)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   | 1           |
 | [How to Build a Restful API With NestJs, KnexJs, and ObjectionJs](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)         | [Mubarak Muhammed](https://twitter.com/200OKDeveloper)           | [Link](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)    | 2023-01-21   | 3           |
 | [User Authentication With Firebase Auth and Realtime Database](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)         | [Anukam chidalu](https://twitter.com/TochiClemas)           | [Link](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)    | 2023-01-20   | 3           |
-| [https://www.educative.io/answers/variables-expressions-and-statements-in-julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
+| [Variables, expressions, and statements in Julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
 | [Unlock the Power of Aggregation in MongoDB: A Beginner's Guide to Mastering Data Analysis](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)         | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev)           | [Link](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)    | 2023-01-20   | 3           |
 
 ---
