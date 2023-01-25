@@ -66,6 +66,8 @@ Contents are added frequently! ⚡
 | [How to Build and Deploy a USDC-based Crowdfund Smart Contract](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)          | [Chinwizu](https://twitter.com/chinwizu)             | [Link](https://chinwizu.hashnode.dev/how-to-build-and-deploy-a-usdc-based-crowdfund-smart-contract)        | 2023-01-20   | 3           |
 | [Solidity Arrays - How to Use Them in Your Smart Contracts](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Superhero](https://twitter.com/)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-07   | 1           |
 | [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl Meets Tech](https://hashnode.com/@lilibelkay)             | [Link](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2           |
+| [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets)          | [Bisola](https://hashnode.com/@BissyK)             | [Link](https://bisolakayode.hashnode.dev/web3-wallets)        | 2023-01-20   | 3         |
+| [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye](https://twitter.com/only_nenye)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3         |
 
 ---
 
@@ -74,6 +76,7 @@ Contents are added frequently! ⚡
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Preventing CSRF Attacks on Your Website](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Teslim Odumuyiwa](https://twitter.com/)    | [Link](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07   | 1           |
+| [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
 
 ## Data Science
 
@@ -98,6 +101,7 @@ Contents are added frequently! ⚡
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ | ------------ | ----------- |
 | [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | 2021-01-9    | 1           |
 | [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2021-01-09    | 1           |
+| [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2021-01-21   | 3         |
 
 
 ---
@@ -122,7 +126,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2021-01-20         |     3        |
 
 ---
 
@@ -146,7 +150,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
 
 ---
 
@@ -178,7 +182,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Searching a LazyColumn made easys](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)         | [Musa Abdullahi](https://medium.com/@musabdulhim3)           | [Link](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)    | 2023-01-20   | 3           |
 
 ---
 
@@ -199,6 +203,10 @@ Contents are added frequently! ⚡
 | [How to Build a Tip Calculator with HTML, CSS and JavaScript](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript) | 2023-01-12   | 2           |
 | [Tradeoffs to Consider Before Selecting a CSS Framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)         | [Code Prophet](https://twitter.com/koliko_man)           | [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)    | 2023-01-16   | 3           |
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Tsegsxaviers](https://twitter.com)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   | 1           |
+| [How to Build a Restful API With NestJs, KnexJs, and ObjectionJs](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)         | [Mubarak Muhammed](https://twitter.com/200OKDeveloper)           | [Link](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)    | 2023-01-21   | 3           |
+| [User Authentication With Firebase Auth and Realtime Database](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)         | [Anukam chidalu](https://twitter.com/TochiClemas)           | [Link](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)    | 2023-01-20   | 3           |
+| [Variables, expressions, and statements in Julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
+| [Unlock the Power of Aggregation in MongoDB: A Beginner's Guide to Mastering Data Analysis](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)         | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev)           | [Link](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)    | 2023-01-20   | 3           |
 
 ---
 
