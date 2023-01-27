@@ -238,6 +238,7 @@ Contents are added frequently! ⚡
 | [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
 | [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
 | [What is Temporal Dead Zone (TDZ) In Javascript](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | [Tiamiyu Abidemi](https://hashnode.com/@Eeskay) | [Link](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | 2023-01-02   | 1           |
+| [JavaScript and Computational Thinking (Lesson One)](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | [Ibrahim Onuche](https://www.linkedin.com/in/hello-onuche-hi/)| [Link](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | 2023-01-17   | 2          |
 ---
 
 ## Startups
