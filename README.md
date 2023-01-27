@@ -234,6 +234,7 @@ Contents are added frequently! ⚡
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
 | [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
 | [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
+| [What is Temporal Dead Zone (TDZ) In Javascript](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | [Tiamiyu Abidemi](https://hashnode.com/@Eeskay) | [Link](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | 2023-01-02   | 1           |
 ---
 
 ## Startups
