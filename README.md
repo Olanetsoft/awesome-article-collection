@@ -213,6 +213,7 @@ Contents are added frequently! ⚡
 | [Julia Programming Applications – What is Julia Used For?](https://www.freecodecamp.org/news/applications-of-julia/)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.freecodecamp.org/news/applications-of-julia/)    | 2023-01-18   |  2 |
 | [Optimizing State Management with React Query in React Apps](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)         | [Austin Ugbaja](https://twitter.com/codesamurai_)           | [Link](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)    | 2023-01-17   |  2 |
 | [Getting a Hold of Mixins in TypeScript](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)         | [Gideon Idoko](https://twitter.com/IamGideonIdoko)           | [Link](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)    | 2023-01-16   |  2 |
+| [Creating a read more, see less button with CSS and Javascript](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)         | [Timmy Hamzat ](https://github.com/Fortwinhamz)           | [Link](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)    | 2023-01-15   |  2 |
 
 ---
 
