@@ -211,6 +211,7 @@ Contents are added frequently! ⚡
 | [Variables, expressions, and statements in Julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
 | [Unlock the Power of Aggregation in MongoDB: A Beginner's Guide to Mastering Data Analysis](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)         | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev)           | [Link](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)    | 2023-01-20   | 3|
 | [Julia Programming Applications – What is Julia Used For?](https://www.freecodecamp.org/news/applications-of-julia/)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.freecodecamp.org/news/applications-of-julia/)    | 2023-01-18   |  2 |
+| [Optimizing State Management with React Query in React Apps](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)         | [Austin Ugbaja](https://twitter.com/codesamurai_)           | [Link](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)    | 2023-01-17   |  2 |
 
 ---
 
