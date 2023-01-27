@@ -71,8 +71,7 @@ Contents are added frequently! ⚡
 | [Creating upgradable smart contracts using TDD](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)          | [Abdulsalam Lukmon](https://twitter.com/litmus13lukman)             | [Link](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)        | 2023-01-18   | 2         |
 | [Exploring the Potentials of Blockchain Technology](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)          | [Adebayo Oluwaseun](https://twitter.com/seunbayong)             | [Link](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)        | 2023-01-18   | 2         |
 | [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl meets tech](https://twitter.com/girlundtech)             | [Link]((https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2         |
-| [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale
-](https://reine.hashnode.dev/)             | [Link]((https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
+| [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale](https://reine.hashnode.dev/)             | [Link]((https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
 
 ---
 
