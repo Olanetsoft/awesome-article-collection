@@ -22,6 +22,7 @@ Contents are added frequently! ⚡
 
 - [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
+- [Cloud Engineering](#cloud-engineering)
 - [Cyber Security](#cyber-security)
 - [Data Science](#data-science)
 - [Design](#design)
@@ -74,6 +75,12 @@ Contents are added frequently! ⚡
 ](https://reine.hashnode.dev/)             | [Link]((https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
 
 ---
+
+## Cloud Engineering
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [How to provision a highly available application on a Private AWS EC2 Instance using Amazon Autoscaling, Application Load Balancer and VPC.](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)        | [Ejiroghene Laurel Dafe](https://medium.com/@dafelaurele)    | [Link](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)    | 2023-01-14  | 2          |
 
 ## Cyber Security
 
