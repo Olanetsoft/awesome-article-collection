@@ -68,6 +68,7 @@ Contents are added frequently! ⚡
 | [Web3 Wallets](https://bisolakayode.hashnode.dev/web3-wallets)          | [Bisola](https://hashnode.com/@BissyK)             | [Link](https://bisolakayode.hashnode.dev/web3-wallets)        | 2023-01-20   | 3         |
 | [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye](https://twitter.com/only_nenye)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3         |
 | [Creating upgradable smart contracts using TDD](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)          | [Abdulsalam Lukmon](https://twitter.com/litmus13lukman)             | [Link](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)        | 2023-01-18   | 2         |
+| [Exploring the Potentials of Blockchain Technology](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)          | [Adebayo Oluwaseun](https://twitter.com/seunbayong)             | [Link](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)        | 2023-01-18   | 2         |
 
 ---
 
