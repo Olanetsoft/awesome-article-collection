@@ -22,6 +22,7 @@ Contents are added frequently! ⚡
 
 - [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
+- [Cloud Engineering](#cloud-engineering)
 - [Cyber Security](#cyber-security)
 - [Data Science](#data-science)
 - [Design](#design)
@@ -69,9 +70,16 @@ Contents are added frequently! ⚡
 | [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye](https://twitter.com/only_nenye)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3         |
 | [Creating upgradable smart contracts using TDD](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)          | [Abdulsalam Lukmon](https://twitter.com/litmus13lukman)             | [Link](https://lukmon-abdulsalam.hashnode.dev/creating-upgradable-smart-contracts-using-tdd#heading-benefits-of-test-driven-development)        | 2023-01-18   | 2         |
 | [Exploring the Potentials of Blockchain Technology](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)          | [Adebayo Oluwaseun](https://twitter.com/seunbayong)             | [Link](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)        | 2023-01-18   | 2         |
-| [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl meets tech](https://twitter.com/girlundtech)             | [Link]((https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2         |
+| [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl meets tech](https://twitter.com/girlundtech)             | [Link](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2         |
+| [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale](https://reine.hashnode.dev/)             | [Link](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
 
 ---
+
+## Cloud Engineering
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [How to provision a highly available application on a Private AWS EC2 Instance using Amazon Autoscaling, Application Load Balancer and VPC.](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)        | [Ejiroghene Laurel Dafe](https://medium.com/@dafelaurele)    | [Link](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)    | 2023-01-14  | 2          |
 
 ## Cyber Security
 
@@ -192,6 +200,7 @@ Contents are added frequently! ⚡
 
 | Article Title                                                                                                                | Author                                                   | Article                                                                              | Article Date | Week Number |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------ | ----------- |
+| [Master web development quickly: The Fastest Way To Learn For Everyone](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | [Nkiruka Edith O.](https://twitter.com/EdleyChris2) | [Link](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | 2023-01-10 | 2       |
 | [10 Free Notion Templates You Should Be Using](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using) | 2023-01-21   | 3           |
 | [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophyia](https://twitter.com/) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 1           |
 | [Work-Life Balance- A big myth?](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | [Comfort-Mary Ogidi](https://medium.com/@comfortogidimary) | [Link](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | 2023-01-16   | 3           |
@@ -210,11 +219,12 @@ Contents are added frequently! ⚡
 | [User Authentication With Firebase Auth and Realtime Database](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)         | [Anukam chidalu](https://twitter.com/TochiClemas)           | [Link](https://clemas.hashnode.dev/user-authentication-with-firebase-auth-and-realtime-database)    | 2023-01-20   | 3           |
 | [Variables, expressions, and statements in Julia](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.educative.io/answers/variables-expressions-and-statements-in-julia)    | 2023-01-20   | 3           |
 | [Unlock the Power of Aggregation in MongoDB: A Beginner's Guide to Mastering Data Analysis](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)         | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev)           | [Link](https://abiodundev.hashnode.dev/unlock-the-power-of-aggregation-in-mongodb-a-beginners-guide-to-mastering-data-analysis)    | 2023-01-20   | 3|
-| [Julia Programming Applications – What is Julia Used For?](https://www.freecodecamp.org/news/applications-of-julia/)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.freecodecamp.org/news/applications-of-julia/)    | 2023-01-18   |  2 |
-| [Optimizing State Management with React Query in React Apps](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)         | [Austin Ugbaja](https://twitter.com/codesamurai_)           | [Link](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)    | 2023-01-17   |  2 |
-| [Getting a Hold of Mixins in TypeScript](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)         | [Gideon Idoko](https://twitter.com/IamGideonIdoko)           | [Link](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)    | 2023-01-16   |  2 |
-| [Creating a read more, see less button with CSS and Javascript](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)         | [Timmy Hamzat ](https://github.com/Fortwinhamz)           | [Link](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)    | 2023-01-15   |  2 |
-| [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)         | [Yayah Mohammed ](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   |  2 |
+| [Julia Programming Applications – What is Julia Used For?](https://www.freecodecamp.org/news/applications-of-julia/)         | [Ifihanagbara Olusheye](https://twitter.com/Ifihan_)           | [Link](https://www.freecodecamp.org/news/applications-of-julia/)    | 2023-01-18   |  3 |
+| [Optimizing State Management with React Query in React Apps](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)         | [Austin Ugbaja](https://twitter.com/codesamurai_)           | [Link](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)    | 2023-01-17   |  3 |
+| [Getting a Hold of Mixins in TypeScript](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)         | [Gideon Idoko](https://twitter.com/IamGideonIdoko)           | [Link](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)    | 2023-01-16   |  3 |
+| [Creating a read more, see less button with CSS and Javascript](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)         | [Timmy Hamzat ](https://github.com/Fortwinhamz)           | [Link](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)    | 2023-01-15   |  3 |
+| [How to uninstall Node on Mac OS High Sierra(10.13.6)](https://brymmobaggins.hashnode.dev/how-to-uninstall-node-on-mac-os-high-sierra10136)         | [Ibrahim Bakare](https://brymmobaggins.hashnode.dev/)           | [Link](https://brymmobaggins.hashnode.dev/how-to-uninstall-node-on-mac-os-high-sierra10136)    | 2023-01-15   |  3 |
+
 
 ---
 
@@ -244,6 +254,8 @@ Contents are added frequently! ⚡
 | [What is Temporal Dead Zone (TDZ) In Javascript](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | [Tiamiyu Abidemi](https://hashnode.com/@Eeskay) | [Link](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | 2023-01-02   | 1           |
 | [JavaScript and Computational Thinking (Lesson One)](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | [Ibrahim Onuche](https://www.linkedin.com/in/hello-onuche-hi/)| [Link](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | 2023-01-17   | 2          |
 | [Tradeoffs to consider before selecting a CSS framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | [Emmanuel Obi](https://twitter.com/koliko_man)| [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | 2023-01-16   | 2          |
+| [Tidbit about Serial Number](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | [Abiona ibraheem](https://hashnode.com/@Hibluxe)| [Link](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | 2023-01-14   | 2          |
+
 ---
 
 ## Startups
