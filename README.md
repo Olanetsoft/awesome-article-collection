@@ -72,7 +72,8 @@ Contents are added frequently! ⚡
 | [Exploring the Potentials of Blockchain Technology](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)          | [Adebayo Oluwaseun](https://twitter.com/seunbayong)             | [Link](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)        | 2023-01-18   | 2         |
 | [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl meets tech](https://twitter.com/girlundtech)             | [Link](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2         |
 | [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale](https://reine.hashnode.dev/)             | [Link](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
-| [Everything You Need To Know About Blind-Signing (2023 Guide)](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)          | [Victor fawole](https://reine.hashnode.dev/)             | [Link](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)        | 2023-01-12   | 2         |
+| [Everything You Need To Know About Blind-Signing (2023 Guide)](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)          | [Victor Fawole](https://reine.hashnode.dev/)             | [Link](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)        | 2023-01-12   | 2         |
+| [How to Build Your First Decentralized Voting Smart Contract on Stacks Blockchain](https://midesofek.hashnode.dev/how-to-build-your-first-decentralized-voting-smart-contract-on-stacks-blockchain#heading-writing-our-voting-contract)          | [Mide Sofek](https://hashnode.com/@midesofek)             | [Link](https://midesofek.hashnode.dev/how-to-build-your-first-decentralized-voting-smart-contract-on-stacks-blockchain#heading-writing-our-voting-contract)        | 2023-01-12   | 2         |
 ---
 
 ## Cloud Engineering
@@ -102,7 +103,7 @@ Contents are added frequently! ⚡
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
-
+| [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
 ---
 
 ## Developer Tools
