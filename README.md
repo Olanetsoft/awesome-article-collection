@@ -104,6 +104,7 @@ Contents are added frequently! ⚡
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
+| [border-image-width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
 ---
 
 ## Developer Tools
@@ -208,6 +209,7 @@ Contents are added frequently! ⚡
 | [Work-Life Balance- A big myth?](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | [Comfort-Mary Ogidi](https://medium.com/@comfortogidimary) | [Link](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | 2023-01-16   | 3           |
 | [Applying For Outreachy Internships.A Summary of FAQs I Get Asked On Outreachy.](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | [Precious Onyewuchi](https://twitter.com/preshh0) | [Link](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | 2023-01-19   | 2           |
 | [How To Learn and Practice Coding From Your Smartphone.](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | [Peace Irabor](https://hashnode.com/@poriacodes) | [Link](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | 2023-01-13   | 2           |
+| [Master Web Development Quickly: The Fastest Way To Learn For Everyone](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | [Nkiruka Edith Onwugbufor](https://hashnode.com/@Edleychris) | [Link](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | 2023-01-10   | 2           |
 
 ---
 
