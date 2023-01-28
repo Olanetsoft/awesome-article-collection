@@ -214,6 +214,7 @@ Contents are added frequently! ⚡
 | [Optimizing State Management with React Query in React Apps](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)         | [Austin Ugbaja](https://twitter.com/codesamurai_)           | [Link](https://codesamurai.hashnode.dev/optimizing-state-management-with-react-query-in-react-apps)    | 2023-01-17   |  2 |
 | [Getting a Hold of Mixins in TypeScript](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)         | [Gideon Idoko](https://twitter.com/IamGideonIdoko)           | [Link](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)    | 2023-01-16   |  2 |
 | [Creating a read more, see less button with CSS and Javascript](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)         | [Timmy Hamzat ](https://github.com/Fortwinhamz)           | [Link](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)    | 2023-01-15   |  2 |
+| [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)         | [Yayah Mohammed ](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   |  2 |
 
 ---
 
