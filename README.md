@@ -226,6 +226,8 @@ Contents are added frequently! ⚡
 | [Getting a Hold of Mixins in TypeScript](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)         | [Gideon Idoko](https://twitter.com/IamGideonIdoko)           | [Link](https://gideonidoko.com/blog/getting-a-hold-of-mixins-in-typescript)    | 2023-01-16   |  3 |
 | [Creating a read more, see less button with CSS and Javascript](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)         | [Timmy Hamzat ](https://github.com/Fortwinhamz)           | [Link](https://fortwin.hashnode.dev/creating-a-read-more-see-less-button-with-css-and-javascript)    | 2023-01-15   |  3 |
 | [How to uninstall Node on Mac OS High Sierra(10.13.6)](https://brymmobaggins.hashnode.dev/how-to-uninstall-node-on-mac-os-high-sierra10136)         | [Ibrahim Bakare](https://brymmobaggins.hashnode.dev/)           | [Link](https://brymmobaggins.hashnode.dev/how-to-uninstall-node-on-mac-os-high-sierra10136)    | 2023-01-15   |  3 |
+| [Python control flow :Understanding and using if/Elif / else statements](https://pec.hashnode.dev/python-control-flow-understanding-and-using-ifelif-else-statements)         | [Peculiar Iguodeyala](https://hashnode.com/@Pec)           | [Link](https://pec.hashnode.dev/python-control-flow-understanding-and-using-ifelif-else-statements)    | 2023-01-12   |  2 |
+| [A Guide To API Rate Limiting In Django](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)         | [Ubaydah Abdulwasiu]()           | [Link](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)    | 2023-01-5   |  1 |
 
 
 ---
