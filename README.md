@@ -72,7 +72,7 @@ Contents are added frequently! ⚡
 | [Exploring the Potentials of Blockchain Technology](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)          | [Adebayo Oluwaseun](https://twitter.com/seunbayong)             | [Link](https://seunbayo.hashnode.dev/exploring-the-potentials-of-blockchain-technology)        | 2023-01-18   | 2         |
 | [What is Liquidity in Crypto?](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)          | [Girl meets tech](https://twitter.com/girlundtech)             | [Link](https://girlmeetstech.hashnode.dev/what-is-liquidity-in-crypto)        | 2023-01-15   | 2         |
 | [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale](https://reine.hashnode.dev/)             | [Link](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
-
+| [Everything You Need To Know About Blind-Signing (2023 Guide)](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)          | [Victor fawole](https://reine.hashnode.dev/)             | [Link](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)        | 2023-01-12   | 2         |
 ---
 
 ## Cloud Engineering
@@ -257,6 +257,7 @@ Contents are added frequently! ⚡
 | [JavaScript and Computational Thinking (Lesson One)](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | [Ibrahim Onuche](https://www.linkedin.com/in/hello-onuche-hi/)| [Link](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | 2023-01-17   | 2          |
 | [Tradeoffs to consider before selecting a CSS framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | [Emmanuel Obi](https://twitter.com/koliko_man)| [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | 2023-01-16   | 2          |
 | [Tidbit about Serial Number](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | [Abiona ibraheem](https://hashnode.com/@Hibluxe)| [Link](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | 2023-01-14   | 2          |
+| [How to build your own LinkedIn Profile Scraper](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | [Odewole Babatunde Samson](https://hashnode.com/@Tundesamson29)| [Link](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | 2023-01-13   | 2          |
 
 ---
 
