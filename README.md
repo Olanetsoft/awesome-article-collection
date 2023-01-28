@@ -87,6 +87,7 @@ Contents are added frequently! ⚡
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Preventing CSRF Attacks on Your Website](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Teslim Odumuyiwa](https://twitter.com/)    | [Link](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07   | 1           |
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
+| [Understanding what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)        | [Etiene James](https://hashnode.com/@St80ene)    | [Link](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)    | 2023-01-12  | 2          |
 
 ## Data Science
 
@@ -205,6 +206,7 @@ Contents are added frequently! ⚡
 | [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophyia](https://twitter.com/) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 1           |
 | [Work-Life Balance- A big myth?](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | [Comfort-Mary Ogidi](https://medium.com/@comfortogidimary) | [Link](https://medium.com/@comfortogidimary/work-life-balance-a-big-myth-a1207b3ea430) | 2023-01-16   | 3           |
 | [Applying For Outreachy Internships.A Summary of FAQs I Get Asked On Outreachy.](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | [Precious Onyewuchi](https://twitter.com/preshh0) | [Link](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | 2023-01-19   | 2           |
+| [How To Learn and Practice Coding From Your Smartphone.](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | [Peace Irabor](https://hashnode.com/@poriacodes) | [Link](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | 2023-01-13   | 2           |
 
 ---
 
