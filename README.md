@@ -213,6 +213,8 @@ Contents are added frequently! ⚡
 | [Applying For Outreachy Internships.A Summary of FAQs I Get Asked On Outreachy.](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | [Precious Onyewuchi](https://twitter.com/preshh0) | [Link](https://preshh0.hashnode.dev/applying-for-outreachy-internships) | 2023-01-19   | 2           |
 | [How To Learn and Practice Coding From Your Smartphone.](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | [Peace Irabor](https://hashnode.com/@poriacodes) | [Link](https://poriacodes.hashnode.dev/how-to-learn-and-practice-coding-from-your-smartphone) | 2023-01-13   | 2           |
 | [Master Web Development Quickly: The Fastest Way To Learn For Everyone](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | [Nkiruka Edith Onwugbufor](https://hashnode.com/@Edleychris) | [Link](https://edleychris.hashnode.dev/master-web-development-quickly-the-fastest-way-to-learn-for-everyone) | 2023-01-10   | 2           |
+| [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophia Iroegbu](https://hashnode.com/@Sophyia) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 2           |
+| [Not having this #1 skill can lead to failure as a freelancer 🤯😩](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | [Chinaa Emmanuel](https://hashnode.com/@chinaaa) | [Link](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | 2023-01-09   | 2           |
 
 ---
 
