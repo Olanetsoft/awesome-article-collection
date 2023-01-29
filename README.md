@@ -75,6 +75,7 @@ Contents are added frequently! ⚡
 | [What is web3? An introduction to the decentralized web](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)          | [Toyosi Odukale](https://reine.hashnode.dev/)             | [Link](https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web)        | 2023-01-14   | 2         |
 | [Everything You Need To Know About Blind-Signing (2023 Guide)](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)          | [Victor Fawole](https://reine.hashnode.dev/)             | [Link](https://mirror.xyz/0x29A43CEC74995a9D3B2B1dAD20a09DAeb28853b7/vPVCsBXf_hTspR0u25IiBhmOjoAHxeCXsiemju6BsKY)        | 2023-01-12   | 2         |
 | [How to Build Your First Decentralized Voting Smart Contract on Stacks Blockchain](https://midesofek.hashnode.dev/how-to-build-your-first-decentralized-voting-smart-contract-on-stacks-blockchain#heading-writing-our-voting-contract)          | [Mide Sofek](https://hashnode.com/@midesofek)             | [Link](https://midesofek.hashnode.dev/how-to-build-your-first-decentralized-voting-smart-contract-on-stacks-blockchain#heading-writing-our-voting-contract)        | 2023-01-12   | 2         |
+| [Solidity Arrays: How To Use Them In Your Smart Contracts.](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Ademola Thompson](https://hashnode.com/@SuperheroJT)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-01   | 1         |
 ---
 
 ## Cloud Engineering
@@ -90,6 +91,7 @@ Contents are added frequently! ⚡
 | [Preventing CSRF Attacks on Your Website](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Teslim Odumuyiwa](https://twitter.com/)    | [Link](https://medium.com/@teslimodus/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07   | 1           |
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
 | [Understanding what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)        | [Etiene James](https://hashnode.com/@St80ene)    | [Link](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)    | 2023-01-12  | 2          |
+| [Preventing CSRF Attacks on Your Website.](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Odumuyiwa Teslim](https://teslimodus.medium.com/)    | [Link](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07  | 1          |
 
 ## Data Science
 
