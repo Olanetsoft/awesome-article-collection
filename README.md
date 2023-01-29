@@ -44,6 +44,7 @@ Contents are added frequently! ⚡
 - [Software Engineering](#software-engineering)
 - [Startups](#startups)
 - [Web Resources](#web-resources)
+- [Others](#others)
 - [Contributors 💪](#contributors)
 - [Stargazers ⭐️](#stargazers-)
 
@@ -278,6 +279,12 @@ Contents are added frequently! ⚡
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [14+ Best Freelance Websites to Find Work in 2023](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | [Kelvin Moses](https://hashnode.com/@Kelv) | [Link](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | 2023-01-14   | 2           |
 | [Building your own LinkedIn Profile Scraper](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | [Tijan Ayomide](https://twitter.com/Tijan_io) | [Link](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | 2023-01-18   | 2           |
+
+
+## Others
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [2022 in Review: Doing Tech the Community way - Dev Retro 2022](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | [Helen Efebe](https://hashnode.com/@helenefebe) | [Link](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | 2023-01-6   | 1           |
 
 ## Contributors 💪
 
