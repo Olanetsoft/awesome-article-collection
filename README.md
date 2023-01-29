@@ -266,6 +266,7 @@ Contents are added frequently! ⚡
 | [Tradeoffs to consider before selecting a CSS framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | [Emmanuel Obi](https://twitter.com/koliko_man)| [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework) | 2023-01-16   | 2          |
 | [Tidbit about Serial Number](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | [Abiona ibraheem](https://hashnode.com/@Hibluxe)| [Link](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | 2023-01-14   | 2          |
 | [How to build your own LinkedIn Profile Scraper](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | [Odewole Babatunde Samson](https://hashnode.com/@Tundesamson29)| [Link](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | 2023-01-13   | 2          |
+| [Optimization and Deployment of Vue App on Firebase](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | [Kelvin Moses](https://hashnode.com/@Kelv)| [Link](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | 2023-01-08   | 2          |
 
 ---
 
@@ -287,6 +288,7 @@ Contents are added frequently! ⚡
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [2022 in Review: Doing Tech the Community way - Dev Retro 2022](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | [Helen Efebe](https://hashnode.com/@helenefebe) | [Link](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | 2023-01-6   | 1           |
+| [My GitHub-Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Shoyombo Gabriel Ayomide](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-9   | 2           |
 
 ## Contributors 💪
 
