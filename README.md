@@ -80,8 +80,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Solidity Arrays: How To Use Them In Your Smart Contracts.](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)          | [Ademola Thompson](https://hashnode.com/@SuperheroJT)             | [Link](https://superhero.hashnode.dev/solidity-arrays-how-to-use-them-in-your-smart-contracts)        | 2023-01-01   | 1         |
 | [DEFI MASTRERCLASS: How To Get Started In Defi With $10](https://defipro.hashnode.dev/defi-mastrerclass-how-to-get-started-in-defi-with-10)          | [Nuel Effiong](https://hashnode.com/@DefiPro)             | [Link](https://defipro.hashnode.dev/defi-mastrerclass-how-to-get-started-in-defi-with-10)        | 2023-01-10   | 1         |
 | [Real World Utilities for NFTs](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)          | [Ayodele Abraham](https://medium.com/@web3_ayo)             | [Link](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)        | 2023-01-10   | 1         |
----
-
+| [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3      |
 ## Cloud Engineering
 
 | Article Title | Author | Article | Article Date | Week Number |
