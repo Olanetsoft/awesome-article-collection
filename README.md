@@ -277,6 +277,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Tidbit about Serial Number](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | [Abiona ibraheem](https://hashnode.com/@Hibluxe)| [Link](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | 2023-01-14   | 2          |
 | [How to build your own LinkedIn Profile Scraper](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | [Odewole Babatunde Samson](https://hashnode.com/@Tundesamson29)| [Link](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | 2023-01-13   | 2          |
 | [Optimization and Deployment of Vue App on Firebase](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | [Kelvin Moses](https://hashnode.com/@Kelv)| [Link](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | 2023-01-08   | 2          |
+| [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 1         |
 
 ---
 
@@ -299,6 +300,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [2022 in Review: Doing Tech the Community way - Dev Retro 2022](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | [Helen Efebe](https://hashnode.com/@helenefebe) | [Link](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | 2023-01-6   | 1           |
 | [My GitHub-Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Shoyombo Gabriel Ayomide](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-9   | 2           |
+| [How to turn off internet access for apps on pc](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | [Adekunle Abdul-Roqeeb](https://twitter.com/officialacetec1?s=09) | [Link](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | 2023-01-11   | 1         |
 
 ## Contributors 💪
 
