@@ -242,6 +242,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Python control flow :Understanding and using if/Elif / else statements](https://pec.hashnode.dev/python-control-flow-understanding-and-using-ifelif-else-statements)         | [Peculiar Iguodeyala](https://hashnode.com/@Pec)           | [Link](https://pec.hashnode.dev/python-control-flow-understanding-and-using-ifelif-else-statements)    | 2023-01-12   |  2 |
 | [A Guide To API Rate Limiting In Django](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)         | [Ubaydah Abdulwasiu]()           | [Link](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)    | 2023-01-05   |  1 |
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Joseph Tsegen](https://hashnode.com/@xavier577)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   |  2 |
+| [CSS Functions Simplified.](https://fantom0.hashnode.dev/css-functions-simplified)  | [Peter Bamigboye](https://hashnode.com/@Fantom0)           | [Link](https://fantom0.hashnode.dev/css-functions-simplified)    | 2023-01-10   | 1|
 
 
 ---
