@@ -274,6 +274,7 @@ Contents are added frequently! ⚡
 | [Tidbit about Serial Number](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | [Abiona ibraheem](https://hashnode.com/@Hibluxe)| [Link](https://hibluxe.hashnode.dev/tidbit-about-serial-number) | 2023-01-14   | 2          |
 | [How to build your own LinkedIn Profile Scraper](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | [Odewole Babatunde Samson](https://hashnode.com/@Tundesamson29)| [Link](https://bigsam.hashnode.dev/how-to-build-your-own-linkedin-profile-scraper) | 2023-01-13   | 2          |
 | [Optimization and Deployment of Vue App on Firebase](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | [Kelvin Moses](https://hashnode.com/@Kelv)| [Link](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | 2023-01-08   | 2          |
+| [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 1         |
 
 ---
 
