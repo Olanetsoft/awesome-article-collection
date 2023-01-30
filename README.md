@@ -54,7 +54,7 @@ Contents are added frequently! ⚡
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [Crowdsource: Ashimi’s Guide To Improving Google’s AI and Gain Incentives.](https://ashimi.hashnode.dev/crowdsource-ashimis-guide-to-improving-googles-ai-and-gain-incentives)          | [Ashimi.0x](https://hashnode.com/@ashimi)             | [Link](https://ashimi.hashnode.dev/crowdsource-ashimis-guide-to-improving-googles-ai-and-gain-incentives)        | 2023-01-09   | 1         |
 
 ## Blockchain
 
