@@ -16,6 +16,8 @@ Starring our repository ⭐ is also a great way to show your support and help us
 
 Contents are added frequently! ⚡
 
+Don't know what to write about? or How to start? Generate your next article idea using https://www.articleideagenerator.com/, a free tool that helps you overcome writers block easily.
+
 ---
 
 ## Table of Contents
@@ -116,9 +118,10 @@ Contents are added frequently! ⚡
 | Article Title                                                                                                                        | Author                                               | Article                                                                        | Article Date | Week Number |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ | ------------ | ----------- |
 | [Essential CSS Concept For Web Development](https://edleychris.hashnode.dev/essential-css-concept-for-web-development)  |  [Nkiruka Edith Onwugbufor](https://twitter.com/EdleyChris2)  |  [Link](https://edleychris.hashnode.dev/essential-css-concept-for-web-development)   |  2023-01-29   |   5   |
-| [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | 2021-01-9    | 1           |
-| [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2021-01-09    | 1           |
-| [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2021-01-21   | 3         |
+| [How to Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | [Segun Ajibola](https://twitter.com/iamsegunajibola) | [Link](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/) | 2023-01-9    | 1           |
+| [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-09    | 1           |
+| [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2023-01-21   | 3         |
+| [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | [Olanetsoft](https://twitter/com/olanetsoft) | [Link](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | 2023-01-25 | 3 |
 
 
 ---
