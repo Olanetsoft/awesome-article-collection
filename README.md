@@ -42,6 +42,7 @@ Contents are added frequently! ⚡
 - [Science](#science)
 - [Software Engineering](#software-engineering)
 - [Startups](#startups)
+- [Technical Writing](#tech-writing)
 - [Web Resources](#web-resources)
 - [Contributors 💪](#contributors)
 - [Stargazers ⭐️](#stargazers-)
@@ -203,6 +204,8 @@ Contents are added frequently! ⚡
 | [Tradeoffs to Consider Before Selecting a CSS Framework](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)         | [Code Prophet](https://twitter.com/koliko_man)           | [Link](https://codeprophet.hashnode.dev/tradeoffs-to-consider-before-selecting-a-css-framework)    | 2023-01-16   | 3           |
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Tsegsxaviers](https://twitter.com)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   | 1           |
 | [How to Build a Restful API With NestJs, KnexJs, and ObjectionJs](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)         | [Mubarak Muhammed](https://twitter.com/200OKDeveloper)           | [Link](https://mubaraktech.hashnode.dev/how-to-build-a-restful-api-with-nestjs-knexjs-and-objectionjs)    | 2023-01-21   | 3           |
+| [A Beginner's Guide To Applying CSS Styles: Inline, Internal, And External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)               | [Dr Prime](https://twitter.com/theDocWhoCodes)       | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1)        | 2023-01-21             | 3            |
+| [A Deep Dive Into CSS Box Model--1](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)              | [Dr Prime](https://twitter.com/theDocWhoCodes)       | [Link](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)        | 2023-01-27             | 3            |
 
 ---
 
@@ -228,7 +231,7 @@ Contents are added frequently! ⚡
 | ------------- | ------ | ------- | ------------ | ----------- |
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
 | [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
-| [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
+| [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
 ---
 
 ## Startups
@@ -236,6 +239,14 @@ Contents are added frequently! ⚡
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
+
+## Technical Writing
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j)              | [Dr Prime](https://twitter.com/theDocWhoCodes)       | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j)        | 2023-01-23             | 3            |
+
+---
 
 ## Web Resources
 
