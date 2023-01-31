@@ -301,7 +301,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [2022 in Review: Doing Tech the Community way - Dev Retro 2022](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | [Helen Efebe](https://hashnode.com/@helenefebe) | [Link](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | 2023-01-6   | 1           |
 | [My GitHub-Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Shoyombo Gabriel Ayomide](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-9   | 2           |
-| [How to turn off internet access for apps on pc](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | [Adekunle Abdul-Roqeeb](https://twitter.com/officialacetec1?s=09) | [Link](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | 2023-01-11   | 1         |
+| [How to turn off internet access for apps on pc](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | [Adekunle Abdul-Roqeeb](https://twitter.com/officialacetec1?s=09) | [Link](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | 2023-01-11   | 2         |
+| [Finding your ideal tech career](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | [Chukwuechezonam](https://twitter.com/chibundu_) | [Link](Finding your ideal tech career) | 2023-01-21   | 3        |
 
 ## Contributors 💪
 
