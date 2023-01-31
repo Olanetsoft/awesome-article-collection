@@ -124,6 +124,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-09    | 1           |
 | [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2023-01-21   | 3         |
 | [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | [Olanetsoft](https://twitter/com/olanetsoft) | [Link](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | 2023-01-25 | 3 |
+| [Curated List: Frontend Web Development Beginer Resources](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link]https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | 2023-01-12| 1 |
 
 
 ---
