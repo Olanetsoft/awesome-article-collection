@@ -281,6 +281,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Optimization and Deployment of Vue App on Firebase](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | [Kelvin Moses](https://hashnode.com/@Kelv)| [Link](https://iamkelv.hashnode.dev/optimization-and-deployment-of-vue-app-on-firebase) | 2023-01-08   | 2          |
 | [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 2         |
 | [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | 2023-01-21   | 3         |
+| [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
 
 ---
 
