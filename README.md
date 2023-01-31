@@ -246,6 +246,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Guide To API Rate Limiting In Django](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)         | [Ubaydah Abdulwasiu]()           | [Link](https://coderpad.io/blog/development/a-guide-to-api-rate-limiting-in-django/)    | 2023-01-05   |  1 |
 | [Understanding Nullish Coalescing in Typescript](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)         | [Joseph Tsegen](https://hashnode.com/@xavier577)           | [Link](https://tsegsxaviers.hashnode.dev/understanding-nullish-coalescing-in-typescript)    | 2023-01-09   |  2 |
 | [CSS Functions Simplified.](https://fantom0.hashnode.dev/css-functions-simplified)  | [Peter Bamigboye](https://hashnode.com/@Fantom0)           | [Link](https://fantom0.hashnode.dev/css-functions-simplified)    | 2023-01-10   | 1|
+| [The Power of Labeled Loops in Java](https://mastercraft.hashnode.dev/the-power-of-labeled-loops-in-java)  | [Peter Bamigboye](https://twitter.com/BOmoakin)           | [Link](https://mastercraft.hashnode.dev/the-power-of-labeled-loops-in-java)    | 2023-01-23   | 4 |
+| [JavaScript String Simplified](https://iniobongudom.hashnode.dev/javascript-string-simplified)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/javascript-string-simplified)    | 2023-01-24   | 4 |
 
 
 ---
