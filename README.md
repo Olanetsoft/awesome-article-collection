@@ -124,7 +124,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [My GitHub Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Dr. Prime](https://twitter.com/) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-09    | 1           |
 | [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2023-01-21   | 3         |
 | [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | [Olanetsoft](https://twitter/com/olanetsoft) | [Link](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | 2023-01-25 | 3 |
-| [Curated List: Frontend Web Development Beginer Resources](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link]https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | 2023-01-12| 1 |
+| [Curated List: Frontend Web Development Beginer Resources](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | 2023-01-12| 1 |
 
 
 ---
@@ -306,9 +306,9 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [2022 in Review: Doing Tech the Community way - Dev Retro 2022](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | [Helen Efebe](https://hashnode.com/@helenefebe) | [Link](https://helenefebe.hashnode.dev/2022-in-review-doing-tech-the-community-way-dev-retro-2022) | 2023-01-6   | 1           |
 | [My GitHub-Repo Website Restructure](https://drprime.hashnode.dev/my-github-repo-website-restructure) | [Shoyombo Gabriel Ayomide](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/my-github-repo-website-restructure) | 2023-01-9   | 2           |
 | [How to turn off internet access for apps on pc](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | [Adekunle Abdul-Roqeeb](https://twitter.com/officialacetec1?s=09) | [Link](https://acetech.hashnode.dev/how-to-turn-off-internet-access-for-apps-on-pc) | 2023-01-11   | 2         |
-| [Finding your ideal tech career](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | [Chukwuechezonam](https://twitter.com/chibundu_) | [Link](Finding your ideal tech career) | 2023-01-21   | 
-3        |
+| [Finding your ideal tech career](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | [Chukwuechezonam](https://twitter.com/chibundu_) | [Link](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | 2023-01-21   | 3        |
 | [Why I love the Tech Industry](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | 2023-01-23   | 4        |
+| [Best Nigeria-based investing apps](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | [Daevid The Great](https://medium.com/@daevidthegreat)| [Link](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | 2023-01-21   | 3       |
 
 ## Contributors 💪
 
