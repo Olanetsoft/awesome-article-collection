@@ -42,7 +42,7 @@ Contents are added frequently! ⚡
 - [Science](#science)
 - [Software Engineering](#software-engineering)
 - [Startups](#startups)
-- [Technical Writing](#tech-writing)
+- [Technical Writing](#technical-writing)
 - [Web Resources](#web-resources)
 - [Contributors 💪](#contributors)
 - [Stargazers ⭐️](#stargazers-)
