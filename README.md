@@ -223,6 +223,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophia Iroegbu](https://hashnode.com/@Sophyia) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 2           |
 | [Not having this #1 skill can lead to failure as a freelancer 🤯😩](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | [Chinaa Emmanuel](https://hashnode.com/@chinaaa) | [Link](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | 2023-01-09   | 2           |
 | [How To Track Your Coding Time With Wakatime](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | [PEACE IRABOR](https://twitter.com/poria_codes) | [Link](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | 2023-01-21   | 3           |
+| [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | [DrPrime](https://dev.to/drprime01) | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | 2023-01-23   | 4         |
 
 ---
 
