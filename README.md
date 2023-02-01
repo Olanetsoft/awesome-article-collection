@@ -287,6 +287,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 2         |
 | [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | 2023-01-21   | 3         |
 | [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
+| [Setting up EmailJS with a React App](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | [Dapo Adedire](https://twitter.com/dapo_adedire)| [Link](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | 2023-01-06   | 1        |
+
 
 ---
 
