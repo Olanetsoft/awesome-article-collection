@@ -100,7 +100,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+|   [Tackling the Health Crises in Africa.](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06)              |[Ukpoweh Gift](https://medium.com/@ukpowehonome)        |   [Link](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06)      |   2023-01-31           |   5          |       
 
 ---
 
