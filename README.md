@@ -257,6 +257,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a Temperature Converter App using HTML, CSS, and JavaScript](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)  | [Franklin Ohaegbulam](https://frankiefab100.medium.com/)           | [Link](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)    | 2023-01-24   | 4 |
 | [A Deep Dive Into CSS Box model — 1](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)  | [Shoyombo Gabriel](https://twitter.com/theDocWhoCodes/)           | [Link](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)    | 2023-01-27   | 4 |
 | [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)  | [Yayah Mohammed](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   | 2 |
+| [Building Reusable Components In React Using Tailwind And CVA](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)  | [Bilal Yusuf](https://twitter.com/ubah_484/)           | [Link](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)    | 2023-01-13   | 2 |
 
 
 
