@@ -83,9 +83,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Guide To Blockchain Analytics 1](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)      | 2023-01-14   | 2     |
 | [DappOS; The Bridge Between Web2 Users and Web3 Products.](https://medium.com/@daraakojede01/dappos-the-bridge-between-web2-users-and-web3-products-64c21d7cd147)               | [Olorundara Akojede](https://medium.com/@daraakojede01)         | [Link](https://medium.com/@daraakojede01/dappos-the-bridge-between-web2-users-and-web3-products-64c21d7cd147)           | 2023-01-31   | 4           |
 | [Explaining Smart Contracts to a Five (5) Year Old Child](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)           | 2023-01-28   | 4           |
-
-| [Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
-
+|[Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
+| [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
 
 ## Cloud Engineering
 
