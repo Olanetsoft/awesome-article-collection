@@ -256,6 +256,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [JavaScript String Simplified](https://iniobongudom.hashnode.dev/javascript-string-simplified)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/javascript-string-simplified)    | 2023-01-24   | 4 |
 | [Building a Temperature Converter App using HTML, CSS, and JavaScript](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)  | [Franklin Ohaegbulam](https://frankiefab100.medium.com/)           | [Link](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)    | 2023-01-24   | 4 |
 | [A Deep Dive Into CSS Box model — 1](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)  | [Shoyombo Gabriel](https://twitter.com/theDocWhoCodes/)           | [Link](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)    | 2023-01-27   | 4 |
+| [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)  | [Yayah Mohammed](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   | 2 |
 
 
 
@@ -294,8 +295,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | 2023-01-21   | 3         |
 | [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
 | [Setting up EmailJS with a React App](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | [Dapo Adedire](https://twitter.com/dapo_adedire)| [Link](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | 2023-01-06   | 1        |
-| [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon
-](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
+| [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
 
 
 ---
