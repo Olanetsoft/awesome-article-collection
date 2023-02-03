@@ -137,7 +137,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant]https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2021-01-13        |     2      |
+
 
 ---
 
