@@ -98,6 +98,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
 | [Understanding what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)        | [Etiene James](https://hashnode.com/@St80ene)    | [Link](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)    | 2023-01-12  | 2          |
 | [Preventing CSRF Attacks on Your Website.](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Odumuyiwa Teslim](https://teslimodus.medium.com/)    | [Link](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07  | 1          |
+| [Securing Your Server with Certbot: A Step-by-Step Guide to Easy SSL Installation](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)        | [Olumide Micheal](https://hashnode.com/@codewithmide)    | [Link]https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)    | 2023-01-14  | 2         |
 
 ## Data Science
 
