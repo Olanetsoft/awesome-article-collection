@@ -98,7 +98,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
 | [Understanding what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)        | [Etiene James](https://hashnode.com/@St80ene)    | [Link](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)    | 2023-01-12  | 2          |
 | [Preventing CSRF Attacks on Your Website.](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Odumuyiwa Teslim](https://teslimodus.medium.com/)    | [Link](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07  | 1          |
-| [Securing Your Server with Certbot: A Step-by-Step Guide to Easy SSL Installation](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)        | [Olumide Micheal](https://hashnode.com/@codewithmide)    | [Link]https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)    | 2023-01-14  | 2         |
+| [Securing Your Server with Certbot: A Step-by-Step Guide to Easy SSL Installation](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)        | [Olumide Micheal](https://hashnode.com/@codewithmide)    | [Link](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)    | 2023-01-14  | 2         |
 
 ## Data Science
 
@@ -328,6 +328,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Why I love the Tech Industry](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | 2023-01-23   | 4        |
 | [Best Nigeria-based investing apps](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | [Daevid The Great](https://medium.com/@daevidthegreat)| [Link](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | 2023-01-21   | 3       |
 | [REFLECTING MY JOURNEY INTO BLOCKCHAIN](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | [Faizah Naserian](https://www.linkedin.com/in/faizah-naserian-190586131/)| [Link](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | 2023-01-14   | 2      |
+| [Understanding the Basics of Encoding and Decoding Digital Data: Unlocking the Mysteries](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | [Eazyisreal](https://medium.com/@eazyisreal192)| [Link](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | 2023-01-13   | 2      |
 
 ## Contributors 💪
 
