@@ -137,7 +137,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant]https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2021-01-13        |     2      |
+| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2021-01-13        |     2      |
 
 
 ---
@@ -299,6 +299,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
 | [Setting up EmailJS with a React App](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | [Dapo Adedire](https://twitter.com/dapo_adedire)| [Link](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | 2023-01-06   | 1        |
 | [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
+| [Using ChatGPT to build a pizza delivery service](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar)| [Link](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | 2023-01-14  | 2       |
 
 
 ---
