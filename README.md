@@ -120,6 +120,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
 | [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
 | [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
+| [Unlock the Power of Flexbox and Dominate Web Design](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)  | [Peter Bamigboye](https://hashnode.com/@fantom0)           | [Link](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)    | 2023-01-31  | 4 |
+
 ---
 
 ## Developer Tools
@@ -274,6 +276,7 @@ Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpow
 | [Into Typescript's utility Types](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)  | [Joseph Tsegen](https://twitter.com/Tsegens_tech)           | [Link](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)    | 2023-01-30  | 4 |
 | [A Step-by-Step Guide to Adding React Icons to Your App](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)  | [Ebuka Ejiofor](https://twitter.com/ebukathedev)           | [Link](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)    | 2023-01-30  | 4 |
 | [How to add a link to an image in Next.js](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)  | [Babatunde Onitolo](https://hashnode.com/@BabsOnitolo)           | [Link](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)    | 2023-01-31  | 4 |
+
 
 
 
