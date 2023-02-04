@@ -118,7 +118,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
-| [border-image-width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
 ---
 
 ## Developer Tools
