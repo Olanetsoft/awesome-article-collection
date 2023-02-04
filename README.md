@@ -85,7 +85,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Explaining Smart Contracts to a Five (5) Year Old Child](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)           | 2023-01-28   | 4           |
 |[Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
 | [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
-| [Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)               | [Patience Igwe](https://medium.com/@michaelsihuoma)          | [Link](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)           | 2023-01-10   | 1           |
+| [Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)               | [Patience Igwe](https://medium.com/@michaelsihuoma)          | [Link](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)           | 2023-02-01  | 1           |
 
 ## Cloud Engineering
 
@@ -234,6 +234,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How To Track Your Coding Time With Wakatime](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | [PEACE IRABOR](https://twitter.com/poria_codes) | [Link](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | 2023-01-21   | 3           |
 | [How Grit and Growth Mindset Propel Techies to Success: An Interview.](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | [Lilibel Obiadika](https://twitter.com/girlundtech) | [Link](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | 2023-01-30   | 2           |
 | [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | [DrPrime](https://dev.to/drprime01) | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | 2023-01-23   | 4         |
+| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [
+Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 1         |
 
 ---
 
