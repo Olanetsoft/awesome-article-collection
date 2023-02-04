@@ -85,6 +85,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Explaining Smart Contracts to a Five (5) Year Old Child](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)           | 2023-01-28   | 4           |
 |[Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
 | [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
+| [30 Youtube Channels To Learn Blockchain Development](https://frankiefab.hashnode.dev/30-youtube-channels-to-learn-blockchain-development) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/30-youtube-channels-to-learn-blockchain-development) | 2023-01-31   | 4          |
 
 ## Cloud Engineering
 
@@ -117,7 +118,10 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
-| [border-image-width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
+| [Unlock the Power of Flexbox and Dominate Web Design](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)  | [Peter Bamigboye](https://hashnode.com/@fantom0)           | [Link](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)    | 2023-01-31  | 4 |
+
 ---
 
 ## Developer Tools
@@ -182,6 +186,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
+| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [
+Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
 
 ---
 
@@ -264,6 +270,13 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)  | [Yayah Mohammed](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   | 2 |
 | [Building Reusable Components In React Using Tailwind And CVA](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)  | [Bilal Yusuf](https://twitter.com/ubah_484/)           | [Link](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)    | 2023-01-13   | 2 |
 | [Understanding Relationships in TypeORM](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)  | [Okosun Mary](https://twitter.com/marynoir_)           | [Link](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)    | 2023-01-13   | 2 |
+| [Create A Django Form With Django Crispy Forms And HTMX](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)  | [Ademola Thompson](https://twitter.com/SuperheroJT)           | [Link](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)    | 2023-01-24  | 4 |
+| [Why Error handling in ExpressJs is Necessary in Your Application](https://isaacetor.medium.com/why-error-handling-in-expressjs-is-necessary-in-your-application-672b1f9c4251))  | [Isaac Etor](https://twitter.com/isaacetor)           | [Link](https://isaacetor.medium.com/why-error-handling-in-expressjs-is-necessary-in-your-application-672b1f9c4251)    | 2023-01-26  | 4 |
+| [10 JavaScript Tricks That Every Developer Should Know](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)))  | [Kelvin Moses](https://twitter.com/iam_kelvinjnr)           | [Link](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)    | 2023-01-30  | 4 |
+| [Into Typescript's utility Types](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)  | [Joseph Tsegen](https://twitter.com/Tsegens_tech)           | [Link](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)    | 2023-01-30  | 4 |
+| [A Step-by-Step Guide to Adding React Icons to Your App](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)  | [Ebuka Ejiofor](https://twitter.com/ebukathedev)           | [Link](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)    | 2023-01-30  | 4 |
+| [How to add a link to an image in Next.js](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)  | [Babatunde Onitolo](https://hashnode.com/@BabsOnitolo)           | [Link](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)    | 2023-01-31  | 4 |
+
 
 
 
