@@ -85,6 +85,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Explaining Smart Contracts to a Five (5) Year Old Child](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)           | 2023-01-28   | 4           |
 |[Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
 | [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
+| [30 Youtube Channels To Learn Blockchain Development](https://frankiefab.hashnode.dev/30-youtube-channels-to-learn-blockchain-development) | [Franklin Ohaegbulam](https://twitter.com/frankiefab100) | [Link](https://frankiefab.hashnode.dev/30-youtube-channels-to-learn-blockchain-development) | 2023-01-31   | 4          |
 
 ## Cloud Engineering
 
