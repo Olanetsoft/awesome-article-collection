@@ -186,8 +186,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
-| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [
-Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
+| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
 
 ---
 
