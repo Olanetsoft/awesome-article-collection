@@ -187,8 +187,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
-| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [
-Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
+| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
 
 ---
 
@@ -274,6 +273,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Building Reusable Components In React Using Tailwind And CVA](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)  | [Bilal Yusuf](https://twitter.com/ubah_484/)           | [Link](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)    | 2023-01-13   | 2 |
 | [Understanding Relationships in TypeORM](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)  | [Okosun Mary](https://twitter.com/marynoir_)           | [Link](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)    | 2023-01-13   | 2 |
 | [Configuring Python: An Easy Guide to Setting Up Python on Your PC](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)  | [Olabode Olaleye](https://hashnode.com/@Rolexcodes)           | [Link](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)    | 2023-02-02  | 1 |
+
 
 
 
