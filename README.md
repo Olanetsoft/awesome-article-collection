@@ -267,6 +267,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Create A Django Form With Django Crispy Forms And HTMX](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)  | [Ademola Thompson](https://twitter.com/SuperheroJT)           | [Link](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)    | 2023-01-24  | 4 |
 | [Why Error handling in ExpressJs is Necessary in Your Application](https://isaacetor.medium.com/why-error-handling-in-expressjs-is-necessary-in-your-application-672b1f9c4251))  | [Isaac Etor](https://twitter.com/isaacetor)           | [Link](https://isaacetor.medium.com/why-error-handling-in-expressjs-is-necessary-in-your-application-672b1f9c4251)    | 2023-01-26  | 4 |
 | [10 JavaScript Tricks That Every Developer Should Know](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)))  | [Kelvin Moses](https://twitter.com/iam_kelvinjnr)           | [Link](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)    | 2023-01-30  | 4 |
+| [Into Typescript's utility Types](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)  | [Joseph Tsegen](https://twitter.com/Tsegens_tech)           | [Link](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)    | 2023-01-30  | 4 |
 
 
 ---
