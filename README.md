@@ -264,7 +264,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)  | [Yayah Mohammed](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   | 2 |
 | [Building Reusable Components In React Using Tailwind And CVA](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)  | [Bilal Yusuf](https://twitter.com/ubah_484/)           | [Link](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)    | 2023-01-13   | 2 |
 | [Understanding Relationships in TypeORM](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)  | [Okosun Mary](https://twitter.com/marynoir_)           | [Link](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)    | 2023-01-13   | 2 |
-
+| [Create A Django Form With Django Crispy Forms And HTMX.](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)  | [Ademola Thompson](https://twitter.com/SuperheroJT)           | [Link](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)    | 2023-01-24  | 4 |
 
 
 ---
