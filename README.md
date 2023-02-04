@@ -87,6 +87,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
 | [Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)               | [Patience Igwe](https://medium.com/@michaelsihuoma)          | [Link](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)           | 2023-02-01  | 1           |
 
+
 ## Cloud Engineering
 
 | Article Title | Author | Article | Article Date | Week Number |
@@ -118,7 +119,10 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
-| [border-image-width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
+| [Unlock the Power of Flexbox and Dominate Web Design](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)  | [Peter Bamigboye](https://hashnode.com/@fantom0)           | [Link](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)    | 2023-01-31  | 4 |
+
 ---
 
 ## Developer Tools
@@ -141,7 +145,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2021-01-13        |     2      |
+| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2023-01-13        |     2      |
 
 
 ---
@@ -158,7 +162,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2021-01-20         |     3        |
+|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2023-01-20         |     3        |
 
 ---
 
@@ -183,6 +187,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
+| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [
+Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
 
 ---
 
@@ -270,6 +276,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Configuring Python: An Easy Guide to Setting Up Python on Your PC](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)  | [Olabode Olaleye](https://hashnode.com/@Rolexcodes)           | [Link](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)    | 2023-02-02  | 1 |
 
 
+
 ---
 
 ## Project Management
@@ -293,7 +300,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
-| [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
+| [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2023-01-07    | 1           |
 | [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
 | [What is Temporal Dead Zone (TDZ) In Javascript](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | [Tiamiyu Abidemi](https://hashnode.com/@Eeskay) | [Link](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | 2023-01-02   | 1           |
 | [JavaScript and Computational Thinking (Lesson One)](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | [Ibrahim Onuche](https://www.linkedin.com/in/hello-onuche-hi/)| [Link](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | 2023-01-17   | 2          |
