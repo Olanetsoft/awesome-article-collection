@@ -270,6 +270,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [10 JavaScript Tricks That Every Developer Should Know](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)))  | [Kelvin Moses](https://twitter.com/iam_kelvinjnr)           | [Link](https://iamkelv.hashnode.dev/10-javascript-tricks-that-every-developer-should-know)    | 2023-01-30  | 4 |
 | [Into Typescript's utility Types](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)  | [Joseph Tsegen](https://twitter.com/Tsegens_tech)           | [Link](https://tsegsxaviers.hashnode.dev/into-typescripts-utility-types)    | 2023-01-30  | 4 |
 | [A Step-by-Step Guide to Adding React Icons to Your App](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)  | [Ebuka Ejiofor](https://twitter.com/ebukathedev)           | [Link](https://ebukathedev.hashnode.dev/a-step-by-step-guide-to-adding-react-icons-to-your-app)    | 2023-01-30  | 4 |
+| [How to add a link to an image in Next.js](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)  | [Babatunde Onitolo](https://hashnode.com/@BabsOnitolo)           | [Link](https://babs.hashnode.dev/how-to-add-a-link-to-an-image-in-nextjs)    | 2023-01-31  | 4 |
+
 
 
 ---
