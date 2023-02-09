@@ -354,6 +354,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Best Nigeria-based investing apps](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | [Daevid The Great](https://medium.com/@daevidthegreat)| [Link](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | 2023-01-21   | 3       |
 | [REFLECTING MY JOURNEY INTO BLOCKCHAIN](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | [Faizah Naserian](https://www.linkedin.com/in/faizah-naserian-190586131/)| [Link](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | 2023-01-14   | 2      |
 | [Understanding the Basics of Encoding and Decoding Digital Data: Unlocking the Mysteries](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | [Eazyisreal](https://medium.com/@eazyisreal192)| [Link](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | 2023-01-13   | 2      |
+| [5 Open Source Tools for your Ecommerce Stacks](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | [iribama](https://dev.to/rejoice)| [Link](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | 2023-02-01   | 5      |
 
 ## Contributors 💪
 
