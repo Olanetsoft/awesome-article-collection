@@ -324,6 +324,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Setting up EmailJS with a React App](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | [Dapo Adedire](https://twitter.com/dapo_adedire)| [Link](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | 2023-01-06   | 1        |
 | [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
 | [Using ChatGPT to build a pizza delivery service](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar)| [Link](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | 2023-01-14  | 2       |
+| [The Ultimate Guide to Logging in Nodejs: How to Get the Most Out of Your Logs.](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | 2023-02-02  | 5      |
 
 
 ---
