@@ -124,6 +124,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
 | [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
 | [Unlock the Power of Flexbox and Dominate Web Design](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)  | [Peter Bamigboye](https://hashnode.com/@fantom0)           | [Link](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)    | 2023-01-31  | 4 |
+| [Becoming a self-taught UI/UX designer.](https://medium.com/@Anthoniaojo/becoming-a-self-taught-ui-ux-designer-89c36fb30bb4)  | [Anthonia Ojo](https://medium.com/@Anthoniaojo)           | [Link](https://medium.com/@Anthoniaojo/becoming-a-self-taught-ui-ux-designer-89c36fb30bb4)    | 2023-02-03  | 5 |
 
 ---
 
