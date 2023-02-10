@@ -288,6 +288,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Understanding Relationships in TypeORM](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)  | [Okosun Mary](https://twitter.com/marynoir_)           | [Link](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)    | 2023-01-13   | 2 |
 | [Configuring Python: An Easy Guide to Setting Up Python on Your PC](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)  | [Olabode Olaleye](https://hashnode.com/@Rolexcodes)           | [Link](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)    | 2023-02-02  | 5 |
 | [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)  | [Aishat Muhammed](https://twitter.com/fav_watchgirl)           | [Link](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l911)    | 2023-02-06  | 5 |
+| [Introduction to TypeORM and its features](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)  | [Etiene James](https://twitter.com/etienejames5)           | [Link](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)    | 2023-02-07  | 5 |
 
 
 
