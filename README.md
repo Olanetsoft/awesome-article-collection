@@ -335,6 +335,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [DYNAMIC TYPING IN JAVASCRIPT FOR BEGINNERS](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | [Victoria Johnson](https://medium.com/@EdikanVickie)| [Link](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | 2023-02-04  | 5      |
 | [Why you should use React useCallback Hook: A Deep Dive](https://techiegist.hashnode.dev/why-you-should-use-react-usecallback-hook-a-deep-dive) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/why-you-should-use-react-usecallback-hook-a-deep-dive) | 2023-02-04  | 5      |
 | [Deploy SQL Server on Amazon RDS: A Step-by-Step Guide](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | [Abidemi Muibudeen](https://blog.blogher.tech/)| [Link](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | 2023-02-06  | 5      |
+| [Prisma in 500 seconds](https://tijan.hashnode.dev/prisma-in-500-seconds) | [Tijan Ayomide](https://twitter.com/Tijan_io)| [Link](https://tijan.hashnode.dev/prisma-in-500-seconds) | 2023-02-09  | 6      |
 
 
 
