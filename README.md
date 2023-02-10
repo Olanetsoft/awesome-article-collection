@@ -326,6 +326,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
 | [Using ChatGPT to build a pizza delivery service](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar)| [Link](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | 2023-01-14  | 2       |
 | [The Ultimate Guide to Logging in Nodejs: How to Get the Most Out of Your Logs.](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | 2023-02-02  | 5      |
+| [DYNAMIC TYPING IN JAVASCRIPT FOR BEGINNERS](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | [Victoria Johnson](https://medium.com/@EdikanVickie)| [Link](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | 2023-02-04  | 5      |
 
 
 ---
