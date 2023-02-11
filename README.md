@@ -254,7 +254,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How To Track Your Coding Time With Wakatime](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | [PEACE IRABOR](https://twitter.com/poria_codes) | [Link](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | 2023-01-21   | 3           |
 | [How Grit and Growth Mindset Propel Techies to Success: An Interview.](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | [Lilibel Obiadika](https://twitter.com/girlundtech) | [Link](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | 2023-01-30   | 2           |
 | [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | [DrPrime](https://dev.to/drprime01) | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | 2023-01-23   | 4         |
-| [4 tools to 3x your productivity in Remix as a solidity developer](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | [Opeyemi Adewole](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | 2023-02-08   | 6        |
+| [Revolutionize Your Writing Process: Say Goodbye to Writers Block with the New Article Idea Generator](https://blog.idrisolubisi.com/revolutionize-your-writing-process-say-goodbye-to-writers-block-with-the-new-article-idea-generator) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/revolutionize-your-writing-process-say-goodbye-to-writers-block-with-the-new-article-idea-generator) | 2023-02-09   | 6        |
+
 
 ---
 
