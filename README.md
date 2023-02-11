@@ -254,8 +254,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How To Track Your Coding Time With Wakatime](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | [PEACE IRABOR](https://twitter.com/poria_codes) | [Link](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | 2023-01-21   | 3           |
 | [How Grit and Growth Mindset Propel Techies to Success: An Interview.](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | [Lilibel Obiadika](https://twitter.com/girlundtech) | [Link](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | 2023-01-30   | 2           |
 | [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | [DrPrime](https://dev.to/drprime01) | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | 2023-01-23   | 4         |
-| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [
-Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 1         |
+| [4 tools to 3x your productivity in Remix as a solidity developer](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | [Opeyemi Adewole](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | 2023-02-08   | 6        |
 
 ---
 
@@ -367,6 +366,7 @@ Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hash
 | [REFLECTING MY JOURNEY INTO BLOCKCHAIN](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | [Faizah Naserian](https://www.linkedin.com/in/faizah-naserian-190586131/)| [Link](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | 2023-01-14   | 2      |
 | [Understanding the Basics of Encoding and Decoding Digital Data: Unlocking the Mysteries](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | [Eazyisreal](https://medium.com/@eazyisreal192)| [Link](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | 2023-01-13   | 2      |
 | [5 Open Source Tools for your Ecommerce Stacks](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | [iribama](https://dev.to/rejoice)| [Link](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | 2023-02-01   | 5      |
+| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 1         |
 
 ## Contributors 💪
 
