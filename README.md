@@ -341,6 +341,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Deploy SQL Server on Amazon RDS: A Step-by-Step Guide](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | [Abidemi Muibudeen](https://blog.blogher.tech/)| [Link](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | 2023-02-06  | 5      |
 | [Prisma in 500 seconds](https://tijan.hashnode.dev/prisma-in-500-seconds) | [Tijan Ayomide](https://twitter.com/Tijan_io)| [Link](https://tijan.hashnode.dev/prisma-in-500-seconds) | 2023-02-09  | 6      |
 | [A Practical Guide To Linux Echo Command](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | [Ubaydah Abdulwasiu]()| [Link](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | 2023-02-09  | 6      |
+| [React’s state management: When to use Redux, Recoil, and Hooks.](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | [Isaac Etor](https://isaacetor.medium.com/)| [Link](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | 2023-02-12  | 6      |
 
 
 
