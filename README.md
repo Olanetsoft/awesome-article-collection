@@ -143,6 +143,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Configuring PHP for debugging using Xdebug and VScode](https://blog.michaeltech.xyz/configuring-php-for-debugging-using-xdebug-and-vscode) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://blog.michaeltech.xyz/configuring-php-for-debugging-using-xdebug-and-vscode) | 2023-01-27| 4 |
 | [Top VS Code Extensions for Developers](https://alabo-excel.hashnode.dev/top-vs-code-extensions-for-developers) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link](https://alabo-excel.hashnode.dev/top-vs-code-extensions-for-developers) | 2023-02-06| 5 |
 | [How to Hide API Keys in Frontend Apps using Netlify Functions](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/) | [Frankie Fab](https://twitter.com/frankiefab100) | [Link](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/) | 2023-02-07| 5 |
+| [How to optimize your TypeORM project](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project) | [Etiene James](https://twitter.com/etienejames5) | [Link](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project) | 2023-02-09| 6 |
 
 
 
