@@ -293,6 +293,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)  | [Aishat Muhammed](https://twitter.com/fav_watchgirl)           | [Link](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l911)    | 2023-02-06  | 5 |
 | [Introduction to TypeORM and its features](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)  | [Etiene James](https://twitter.com/etienejames5)           | [Link](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)    | 2023-02-07  | 5 |
 | [Building a simple Calculator App with HTML, CSS, and JavaScript](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)    | 2023-02-08  | 6 |
+| [How to make a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)  | [Iqma](https://twitter.com/Iqma__)           | [Link](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)    | 2023-02-11  | 6 |
 
 
 
