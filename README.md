@@ -342,6 +342,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Prisma in 500 seconds](https://tijan.hashnode.dev/prisma-in-500-seconds) | [Tijan Ayomide](https://twitter.com/Tijan_io)| [Link](https://tijan.hashnode.dev/prisma-in-500-seconds) | 2023-02-09  | 6      |
 | [A Practical Guide To Linux Echo Command](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | [Ubaydah Abdulwasiu]()| [Link](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | 2023-02-09  | 6      |
 | [React’s state management: When to use Redux, Recoil, and Hooks.](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | [Isaac Etor](https://isaacetor.medium.com/)| [Link](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | 2023-02-12  | 6      |
+| [The power of .NET Framework: An Overview of its Benefits](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | 2023-02-11  | 6      |
 
 
 
