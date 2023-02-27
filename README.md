@@ -89,6 +89,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)               | [Patience Igwe](https://medium.com/@michaelsihuoma)          | [Link](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)           | 2023-02-01  | 1           |
 | [4 tools to 3x your productivity in Remix as a solidity developer](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | [Dliteofficial](https://www.twitter.com/dlite_official) | [Link](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | 2023-02-08 | 6 |
 | [Unlocking the Benefits of Smart Contract Security Auditing](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | [Odewole Babatunde Samson](https://twitter.com/big_sam28) | [Link](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | 2023-02-06 | 5 |
+| [Deploying a custom-created cryptocurrency on the Ethereum network.](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | 2023-02-11 | 6 |
 
 
 ## Cloud Engineering
@@ -341,6 +342,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Deploy SQL Server on Amazon RDS: A Step-by-Step Guide](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | [Abidemi Muibudeen](https://blog.blogher.tech/)| [Link](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | 2023-02-06  | 5      |
 | [Prisma in 500 seconds](https://tijan.hashnode.dev/prisma-in-500-seconds) | [Tijan Ayomide](https://twitter.com/Tijan_io)| [Link](https://tijan.hashnode.dev/prisma-in-500-seconds) | 2023-02-09  | 6      |
 | [A Practical Guide To Linux Echo Command](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | [Ubaydah Abdulwasiu]()| [Link](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | 2023-02-09  | 6      |
+| [React’s state management: When to use Redux, Recoil, and Hooks.](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | [Isaac Etor](https://isaacetor.medium.com/)| [Link](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | 2023-02-12  | 6      |
+| [The power of .NET Framework: An Overview of its Benefits](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | 2023-02-11  | 6      |
 
 
 
