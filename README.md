@@ -386,6 +386,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [5 Open Source Tools for your Ecommerce Stacks](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | [iribama](https://dev.to/rejoice)| [Link](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | 2023-02-01   | 5      |
 | [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 5         |
 | [Programming As A Woman In Tech](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | [Chioma Uche-Nwosu](https://blog.openreplay.com/authors/chioma-uche-nwosu/) | [Link](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | 2023-02-14   | 6         |
+| [Technical Writing Template](https://www.fortuneikechi.com/blog/technical-writing-template) | [Fortune Ikechi](https://www.fortuneikechi.com/) | [Link](https://www.fortuneikechi.com/blog/technical-writing-template) | 2023-02-19  | 7        |
 
 ## Contributors 💪
 
