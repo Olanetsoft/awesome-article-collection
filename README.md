@@ -91,6 +91,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Unlocking the Benefits of Smart Contract Security Auditing](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | [Odewole Babatunde Samson](https://twitter.com/big_sam28) | [Link](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | 2023-02-06 | 5 |
 | [Deploying a custom-created cryptocurrency on the Ethereum network.](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | 2023-02-11 | 6 |
 | [ An Introduction to Zero-Knowledge Proofs and Their Impact in Blockchain](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | [Adebayo Oluwaseun](https://twitter.com/seunbayong) | [Link](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | 2023-02-14 | 6 |
+| [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)        | [KHADIJAH](https://twitter.com/_khadeeejah?s=21)    | [Link](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)    | 2023-01-26  | 4          |
+| [Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)        | [Olanetsoft](https://twitter.com/olanetsoft)    | [Link](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)    | 2023-01-17  | 7         |
 
 
 ## Cloud Engineering
@@ -98,7 +100,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [How to provision a highly available application on a Private AWS EC2 Instance using Amazon Autoscaling, Application Load Balancer and VPC.](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)        | [Ejiroghene Laurel Dafe](https://medium.com/@dafelaurele)    | [Link](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)    | 2023-01-14  | 2          |
-| [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)        | [KHADIJAH](https://twitter.com/_khadeeejah?s=21)    | [Link](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)    | 2023-01-26  | 4          |
+
 
 ## Cyber Security
 
