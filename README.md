@@ -350,6 +350,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Beginners Guide to PHP(Hypertext Preprocessor): Part 1](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | [Olatunde Ibitoye](https://hashnode.com@horlartundhey)| [Link](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | 2023-02-13  | 6      |
 | [How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | [Abdulwahab Ashimi](https://twitter.com/adebowale1st)| [Link](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | 2023-02-14  | 6      |
 | [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | 2023-02-16  | 7      |
+| [The Power of Books in Programming](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | [Etomchukwu Oguejiofor](https://twitter.com/etoogueji)| [Link](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | 2023-02-19  | 7      |
 
 
 
