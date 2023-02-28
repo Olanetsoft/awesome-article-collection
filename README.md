@@ -36,6 +36,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 - [Gaming](#gaming)
 - [Health](#health)
 - [Internet of Things](#internet-of-things)
+- [JamStack](#jamstack)
 - [Machine Learning](#machine-learning)
 - [Marketing](#marketing)
 - [Mobile](#mobile)
@@ -81,12 +82,25 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Real World Utilities for NFTs](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)          | [Ayodele Abraham](https://medium.com/@web3_ayo)             | [Link](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)        | 2023-01-10   | 1         |
 | [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3      |
 | [A Guide To Blockchain Analytics 1](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)      | 2023-01-14   | 2     |
+| [DappOS; The Bridge Between Web2 Users and Web3 Products.](https://medium.com/@daraakojede01/dappos-the-bridge-between-web2-users-and-web3-products-64c21d7cd147)               | [Olorundara Akojede](https://medium.com/@daraakojede01)         | [Link](https://medium.com/@daraakojede01/dappos-the-bridge-between-web2-users-and-web3-products-64c21d7cd147)           | 2023-01-31   | 4           |
+| [Explaining Smart Contracts to a Five (5) Year Old Child](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/explaining-smart-contracts-to-a-five-5-year-old-child-fad9f87b2215)           | 2023-01-28   | 4           |
+|[Blockchain Analytics and its Use Cases](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)               | [Patience Igwe](https://medium.com/@michaelsihuoma)         | [Link](https://medium.com/coinmonks/blockchain-analytics-and-its-use-cases-d084f8f69f2b)           | 2023-01-13   | 2           |
+| [Master the Cosmos: A Beginner's Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts) | 2023-02-02 | 1 |
+| [Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)               | [Patience Igwe](https://medium.com/@michaelsihuoma)          | [Link](https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e)           | 2023-02-01  | 1           |
+| [4 tools to 3x your productivity in Remix as a solidity developer](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | [Dliteofficial](https://www.twitter.com/dlite_official) | [Link](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | 2023-02-08 | 6 |
+| [Unlocking the Benefits of Smart Contract Security Auditing](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | [Odewole Babatunde Samson](https://twitter.com/big_sam28) | [Link](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | 2023-02-06 | 5 |
+| [Deploying a custom-created cryptocurrency on the Ethereum network.](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | 2023-02-11 | 6 |
+| [ An Introduction to Zero-Knowledge Proofs and Their Impact in Blockchain](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | [Adebayo Oluwaseun](https://twitter.com/seunbayong) | [Link](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | 2023-02-14 | 6 |
+| [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)        | [KHADIJAH](https://twitter.com/_khadeeejah?s=21)    | [Link](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)    | 2023-01-26  | 4          |
+| [Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)        | [Olanetsoft](https://twitter.com/olanetsoft)    | [Link](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)    | 2023-01-17  | 7         |
 | [Securing Digital Identity with Blockchain: A Simple Guide](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)          | [SuperheroJT](https://twitter.com/SuperheroJT)             | [Link](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)      | 2023-02-27   | 4     |
+
 ## Cloud Engineering
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [How to provision a highly available application on a Private AWS EC2 Instance using Amazon Autoscaling, Application Load Balancer and VPC.](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)        | [Ejiroghene Laurel Dafe](https://medium.com/@dafelaurele)    | [Link](https://medium.com/@dafelaurele/how-to-provision-a-highly-available-application-on-a-private-aws-ec2-instance-using-amazon-77abcff56e1c)    | 2023-01-14  | 2          |
+
 
 ## Cyber Security
 
@@ -96,12 +110,13 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)        | [Tijan Ayomide](https://twitter.com/Tijan_io)    | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)    | 2023-01-21  | 3          |
 | [Understanding what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)        | [Etiene James](https://hashnode.com/@St80ene)    | [Link](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)    | 2023-01-12  | 2          |
 | [Preventing CSRF Attacks on Your Website.](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)        | [Odumuyiwa Teslim](https://teslimodus.medium.com/)    | [Link](https://teslimodus.medium.com/preventing-csrf-attacks-on-your-website-46137aa762b2)    | 2023-01-07  | 1          |
+| [Securing Your Server with Certbot: A Step-by-Step Guide to Easy SSL Installation.](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)        | [Olumide Micheal](https://hashnode.com/@codewithmide)    | [Link](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation)    | 2023-01-14  | 2         |
 
 ## Data Science
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+|   [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06)              |[Ukpoweh Gift](https://medium.com/@ukpowehonome)        |   [Link](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06)      |   2023-01-31           |   5          |       
 
 ---
 
@@ -111,7 +126,11 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 |               |        |         |              |             |
 | [Working on your design systems](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)        | [Sinach Pat](https://medium.com/@sinachpat)    | [Link](https://bootcamp.uxdesign.cc/working-on-design-systems-6c3988f74a9)    | 2023-01-12  | 2          |
-| [border-image-width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Width](https://css-tricks.com/almanac/properties/b/border-image-width/)        | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)    | [Link](https://css-tricks.com/almanac/properties/b/border-image-width/)    | 2023-01-18  | 3          |
+| [Border Image Outset](https://css-tricks.com/almanac/properties/b/border-image-outset/)  | [Sunkanmi Fafowora](https://css-tricks.com/author/sunkanmifafowora/)           | [Link](https://css-tricks.com/almanac/properties/b/border-image-outset/)    | 2023-01-31  | 4 |
+| [Unlock the Power of Flexbox and Dominate Web Design](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)  | [Peter Bamigboye](https://hashnode.com/@fantom0)           | [Link](https://fantom0.hashnode.dev/unlock-the-power-of-flexbox-and-dominate-web-design)    | 2023-01-31  | 4 |
+| [Becoming a self-taught UI/UX designer.](https://medium.com/@Anthoniaojo/becoming-a-self-taught-ui-ux-designer-89c36fb30bb4)  | [Anthonia Ojo](https://medium.com/@Anthoniaojo)           | [Link](https://medium.com/@Anthoniaojo/becoming-a-self-taught-ui-ux-designer-89c36fb30bb4)    | 2023-02-03  | 5 |
+
 ---
 
 ## Developer Tools
@@ -125,6 +144,11 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Beginner's Guide to Applying CSS Styles: Inline, Internal, and External Methods](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | [Dr. Prime](https://twitter.com/) | [Link](https://dev.to/drprime01/a-beginners-guide-to-applying-css-styles-inline-internal-and-external-methods-nd1) | 2023-01-21   | 3         |
 | [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | [Olanetsoft](https://twitter/com/olanetsoft) | [Link](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers) | 2023-01-25 | 3 |
 | [Curated List: Frontend Web Development Beginer Resources](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link](https://alabo-excel.hashnode.dev/curated-list-frontend-web-development-beginer-resources) | 2023-01-12| 1 |
+| [Configuring PHP for debugging using Xdebug and VScode](https://blog.michaeltech.xyz/configuring-php-for-debugging-using-xdebug-and-vscode) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://blog.michaeltech.xyz/configuring-php-for-debugging-using-xdebug-and-vscode) | 2023-01-27| 4 |
+| [Top VS Code Extensions for Developers](https://alabo-excel.hashnode.dev/top-vs-code-extensions-for-developers) | [Alabo Excel](https://twitter.com/alaboExcel) | [Link](https://alabo-excel.hashnode.dev/top-vs-code-extensions-for-developers) | 2023-02-06| 5 |
+| [How to Hide API Keys in Frontend Apps using Netlify Functions](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/) | [Frankie Fab](https://twitter.com/frankiefab100) | [Link](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/) | 2023-02-07| 5 |
+| [How to optimize your TypeORM project](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project) | [Etiene James](https://twitter.com/etienejames5) | [Link](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project) | 2023-02-09| 6 |
+
 
 
 ---
@@ -133,7 +157,9 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [How to Set Up a Linux OS (Ubuntu) on Windows using VirtualBox and Vagrant](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/)     |  2023-01-13        |     2      |
+| [The Benefits of Leveraging DevOps for Your Business](https://medium.com/@angelifechukwu00/the-benefits-of-leveraging-devops-for-your-business-7a3518a1819a)           |  [Angel Ifechukwu](https://www.linkedin.com/in/angel-ifechukwu-29a60b203/)      |     [Link](https://medium.com/@angelifechukwu00/the-benefits-of-leveraging-devops-for-your-business-7a3518a1819a)     |  2023-01-21        |     7     |
+
 
 ---
 
@@ -149,7 +175,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2021-01-20         |     3        |
+|     [Exploring the Limitations and Potential of Technology in Nigerian Education](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)           |  [Faidat Akinwale](https://twitter.com/Faydeesigns)      |     [Link](https://faydee.hashnode.dev/from-crisis-to-triumph-transforming-nigerian-education-with-technology)     |  2023-01-20         |     3        |
 
 ---
 
@@ -174,6 +200,15 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Delayed Onset Muscle Soreness](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | [Dr Prime](https://twitter.com/theDocWhoCodes) | [Link](https://drprime.substack.com/p/delayed-onset-muscle-soreness?sd=pf) | 2023-01-05 | 1            |
+| [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | [Ukpoweh Gift](https://twitter.com/iamukpoweh) | [Link](https://medium.com/@ukpowehonome/tackling-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31 | 4            |
+
+---
+
+## JamStack
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [Migrating Content Between Environments Using Import Export Entries Plugin.](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin)          | [Ashimi.0x](https://hashnode.com/@ashimi)             | [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin)        | 2023-01-11   | 2         |
 
 ---
 
@@ -206,7 +241,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Searching a LazyColumn made easys](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)         | [Musa Abdullahi](https://medium.com/@musabdulhim3)           | [Link](https://medium.com/@musabdulhim3/searching-a-lazycolumn-made-easy-54a0f7a117d)    | 2023-01-20   | 3           |
-
+| [How To Publish Your Android App on Google Play Store.](https://chibundumozia.hashnode.dev/how-to-publish-your-android-app-on-google-play-store) | [Chukwuechezonam](https://twitter.com/chibundu_)| [Link](https://chibundumozia.hashnode.dev/how-to-publish-your-android-app-on-google-play-store) | 2023-02-07  | 5      |
+| [Unlock the Power Of The Terminal On Your Mobile Phone with Termux: An Easy Step-by-Step Installation Guide](https://obikaviola.hashnode.dev/unlock-the-power-of-the-terminal-on-your-mobile-phone-with-termux-an-easy-step-by-step-installation-guide) | [Onyinyechi Viola Obika](https://twitter.com/obika_viola)| [Link](https://obikaviola.hashnode.dev/unlock-the-power-of-the-terminal-on-your-mobile-phone-with-termux-an-easy-step-by-step-installation-guide) | 2023-02-20  | 7      |
 ---
 
 ## Productivity
@@ -223,7 +259,10 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Boost Your Productivity with Microsoft Tools](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | [Sophia Iroegbu](https://hashnode.com/@Sophyia) | [Link](https://sophyia.me/boost-your-productivity-with-microsoft-tools) | 2023-01-09   | 2           |
 | [Not having this #1 skill can lead to failure as a freelancer 🤯😩](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | [Chinaa Emmanuel](https://hashnode.com/@chinaaa) | [Link](https://chinaaa.hashnode.dev/not-having-this-1-skill-can-lead-to-failure-as-a-freelancer) | 2023-01-09   | 2           |
 | [How To Track Your Coding Time With Wakatime](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | [PEACE IRABOR](https://twitter.com/poria_codes) | [Link](https://poriacodes.hashnode.dev/how-to-track-your-coding-time-with-wakatime) | 2023-01-21   | 3           |
+| [How Grit and Growth Mindset Propel Techies to Success: An Interview.](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | [Lilibel Obiadika](https://twitter.com/girlundtech) | [Link](https://girlmeetstech.hashnode.dev/grit-and-growth-mindset) | 2023-01-30   | 2           |
 | [7 Ways To Maximise Your Technical Writing Career With ChatGPT](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | [DrPrime](https://dev.to/drprime01) | [Link](https://dev.to/drprime01/7-ways-to-maximise-your-technical-writing-career-with-chatgpt-1j7j) | 2023-01-23   | 4         |
+| [Revolutionize Your Writing Process: Say Goodbye to Writers Block with the New Article Idea Generator](https://blog.idrisolubisi.com/revolutionize-your-writing-process-say-goodbye-to-writers-block-with-the-new-article-idea-generator) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/revolutionize-your-writing-process-say-goodbye-to-writers-block-with-the-new-article-idea-generator) | 2023-02-09   | 6        |
+
 
 ---
 
@@ -250,6 +289,20 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Create A Django Form With Django Crispy Forms And HTMX.](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)  | [SuperheroJT](https://twitter.com/SuperheroJT)           | [Link](https://superhero.hashnode.dev/create-a-django-form-with-django-crispy-forms-and-htmx)    | 2023-01-24   | 4|
 | [The Power of Labeled Loops in Java](https://mastercraft.hashnode.dev/the-power-of-labeled-loops-in-java)  | [Peter Bamigboye](https://twitter.com/BOmoakin)           | [Link](https://mastercraft.hashnode.dev/the-power-of-labeled-loops-in-java)    | 2023-01-23   | 4 |
 | [JavaScript String Simplified](https://iniobongudom.hashnode.dev/javascript-string-simplified)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/javascript-string-simplified)    | 2023-01-24   | 4 |
+| [Building a Temperature Converter App using HTML, CSS, and JavaScript](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)  | [Franklin Ohaegbulam](https://frankiefab100.medium.com/)           | [Link](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98)    | 2023-01-24   | 4 |
+| [A Deep Dive Into CSS Box model — 1](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)  | [Shoyombo Gabriel](https://twitter.com/theDocWhoCodes/)           | [Link](https://drprime.hashnode.dev/a-deep-dive-into-css-box-model-1)    | 2023-01-27   | 4 |
+| [Building a simple CRUD (create, read, update, delete) application with Laravel](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)  | [Yayah Mohammed](https://twitter.com/devmohy)           | [Link](https://mohy.hashnode.dev/building-a-simple-crud-create-read-update-delete-application-with-laravel)    | 2023-01-14   | 2 |
+| [How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/)  | [Ashimi0x](https://twitter.com/Adebowale1st)        | [Link](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/)    | 2023-02-16   | 7 |
+| [Building Reusable Components In React Using Tailwind And CVA](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)  | [Bilal Yusuf](https://twitter.com/ubah_484/)           | [Link](https://ubah484.hashnode.dev/building-reusable-components-in-react-using-tailwind-and-cva)    | 2023-01-13   | 2 |
+| [Understanding Relationships in TypeORM](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)  | [Okosun Mary](https://twitter.com/marynoir_)           | [Link](https://okosunmary.hashnode.dev/understanding-relationships-in-typeorm)    | 2023-01-13   | 2 |
+| [Configuring Python: An Easy Guide to Setting Up Python on Your PC](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)  | [Olabode Olaleye](https://hashnode.com/@Rolexcodes)           | [Link](https://rolex.hashnode.dev/configuring-python-an-easy-guide-to-setting-up-python-on-your-pc)    | 2023-02-02  | 5 |
+| [Typescript for beginners: Setting up a new project using ReactJs](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l91)  | [Aishat Muhammed](https://twitter.com/fav_watchgirl)           | [Link](https://dev.to/aysha/typescript-for-beginners-setting-up-a-new-project-using-reactjs-3l911)    | 2023-02-06  | 5 |
+| [Introduction to TypeORM and its features](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)  | [Etiene James](https://twitter.com/etienejames5)           | [Link](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)    | 2023-02-07  | 5 |
+| [Building a simple Calculator App with HTML, CSS, and JavaScript](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)    | 2023-02-08  | 6 |
+| [How to make a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)  | [Iqma](https://twitter.com/Iqma__)           | [Link](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)    | 2023-02-11  | 6 |
+| [A Beginners Guide to Pinia](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)  | [Alabo Excel](https://twitter.com/alaboExcel)           | [Link](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)    | 2023-02-18  | 7 |
+| [The Power of Books in Programming](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | [Etomchukwu Oguejiofor](https://twitter.com/etoogueji)| [Link](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | 2023-02-19  | 7      |
+
 
 
 
@@ -276,7 +329,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 |[How to Consume PayStack APIs in a NodeJs/Typescript backend](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|[Mubarak Muh'd Aminu](https://twitter.com/200OKDeveloper) |  [Link](https://mubaraktech.hashnode.dev/how-to-consume-paystack-apis-in-a-nodejstypescript-backend)|2023-01-12 | 1 |
-| [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2021-01-07    | 1           |
+| [What is Versioning All About](https://tijan.hashnode.dev/what-is-versioning-all-about) | [Tijani Ayomide](https://twitter.com/) | [Link](https://tijan.hashnode.dev/what-is-versioning-all-about) | 2023-01-07    | 1           |
 | [Understanding the Single Responsibility Principle: How to Improve Code Maintainability and Scalability](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | [Dr Prime](https://hashnode.com/@Dr) | [Link](https://drprime.hashnode.dev/understanding-the-single-responsibility-principle-how-to-improve-code-maintainability-and-scalability) | 2023-01-15   | 3           |
 | [What is Temporal Dead Zone (TDZ) In Javascript](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | [Tiamiyu Abidemi](https://hashnode.com/@Eeskay) | [Link](https://eeskay.hashnode.dev/what-is-temporal-dead-zone-tdz-in-javascript) | 2023-01-02   | 1           |
 | [JavaScript and Computational Thinking (Lesson One)](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | [Ibrahim Onuche](https://www.linkedin.com/in/hello-onuche-hi/)| [Link](https://thedevocado.hashnode.dev/javascript-and-computational-thinking-lesson-one) | 2023-01-17   | 2          |
@@ -287,7 +340,24 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 2         |
 | [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | 2023-01-21   | 3         |
 | [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
+| [Setting up EmailJS with a React App](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | [Dapo Adedire](https://twitter.com/dapo_adedire)| [Link](https://dapoadedire.hashnode.dev/setting-up-emailjs-with-a-react-app) | 2023-01-06   | 1        |
+| [Speeding Up Your API Performance with Redis Caching](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/speeding-up-your-api-performance-with-redis-caching) | 2023-01-25  | 4        |
+| [Using ChatGPT to build a pizza delivery service](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar)| [Link](https://mukhtar.hashnode.dev/using-chatgpt-to-build-a-pizza-delivery-service) | 2023-01-14  | 2       |
+| [The Ultimate Guide to Logging in Nodejs: How to Get the Most Out of Your Logs.](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | [Abdulsalam Lukmon](https://hashnode.com/@Litmus)| [Link](https://lukmon-abdulsalam.hashnode.dev/the-ultimate-guide-to-logging-in-nodejs-how-to-get-the-most-out-of-your-logs) | 2023-02-02  | 5      |
+| [DYNAMIC TYPING IN JAVASCRIPT FOR BEGINNERS](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | [Victoria Johnson](https://medium.com/@EdikanVickie)| [Link](https://medium.com/@EdikanVickie/dynamic-typing-in-javascript-for-beginners-e40bebd7f5c5) | 2023-02-04  | 5      |
+| [Why you should use React useCallback Hook: A Deep Dive](https://techiegist.hashnode.dev/why-you-should-use-react-usecallback-hook-a-deep-dive) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/why-you-should-use-react-usecallback-hook-a-deep-dive) | 2023-02-04  | 5      |
+| [Deploy SQL Server on Amazon RDS: A Step-by-Step Guide](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | [Abidemi Muibudeen](https://blog.blogher.tech/)| [Link](https://blog.blogher.tech/deploy-sql-server-on-amazon-rds-a-step-by-step-guide) | 2023-02-06  | 5      |
+| [Prisma in 500 seconds](https://tijan.hashnode.dev/prisma-in-500-seconds) | [Tijan Ayomide](https://twitter.com/Tijan_io)| [Link](https://tijan.hashnode.dev/prisma-in-500-seconds) | 2023-02-09  | 6      |
+| [A Practical Guide To Linux Echo Command](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | [Ubaydah Abdulwasiu]()| [Link](https://earthly.dev/blog/practical-guide-to-linux-echo-cmd/) | 2023-02-09  | 6      |
+| [React’s state management: When to use Redux, Recoil, and Hooks.](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | [Isaac Etor](https://isaacetor.medium.com/)| [Link](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | 2023-02-12  | 6      |
+| [The power of .NET Framework: An Overview of its Benefits](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | 2023-02-11  | 6      |
+| [A Beginners Guide to PHP(Hypertext Preprocessor): Part 1](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | [Olatunde Ibitoye](https://hashnode.com@horlartundhey)| [Link](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | 2023-02-13  | 6      |
+| [How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | [Abdulwahab Ashimi](https://twitter.com/adebowale1st)| [Link](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | 2023-02-14  | 6      |
+| [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | 2023-02-16  | 7      |
+| [Understanding How To Add Multimedia to Your Website](https://helenefebe.hashnode.dev/understanding-how-to-add-multimedia-to-your-website) | [Helen Efebe](https://twitter.com/helenefebe)| [Link](https://helenefebe.hashnode.dev/understanding-how-to-add-multimedia-to-your-website) | 2023-02-19  | 7      |
+| [How to Develop a Sign up and Sign in Page using React by Replicating LinkedIn's Sign Up Page](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page) | 2023-02-20  | 7      |
 | [Memory Management In Python](https://superhero.hashnode.dev/memory-management-in-python) | [SuperheroJT](https://twitter.com/SuperheroJT)| [Link](https://superhero.hashnode.dev/memory-management-in-python) | 2023-02-21   | 3        |
+
 
 ---
 
@@ -303,6 +373,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [14+ Best Freelance Websites to Find Work in 2023](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | [Kelvin Moses](https://hashnode.com/@Kelv) | [Link](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | 2023-01-14   | 2           |
 | [Building your own LinkedIn Profile Scraper](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | [Tijan Ayomide](https://twitter.com/Tijan_io) | [Link](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | 2023-01-18   | 2           |
+| [Discover the Wonders of Internet Protocols in Just a Few Minutes](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes) | [Etiene James](https://twitter.com/etienejames5) | [Link](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes) | 2023-01-16   | 7          |
+| [Access Token and Refresh Token: A Comprehensive Guide](https://tijan.hashnode.dev/access-token-and-refresh-token-a-comprehensive-guide) | [Tijan Ayomide](https://twitter.com/Tijan_io) | [Link](https://tijan.hashnode.dev/access-token-and-refresh-token-a-comprehensive-guide) | 2023-01-19   | 7          |
 
 
 ## Others
@@ -314,6 +386,12 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Finding your ideal tech career](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | [Chukwuechezonam](https://twitter.com/chibundu_) | [Link](https://chibundumozia.hashnode.dev/finding-your-ideal-tech-career) | 2023-01-21   | 3        |
 | [Why I love the Tech Industry](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/why-i-love-the-tech-industry) | 2023-01-23   | 4        |
 | [Best Nigeria-based investing apps](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | [Daevid The Great](https://medium.com/@daevidthegreat)| [Link](https://medium.com/@daevidthegreat/best-apps-for-investment-in-nigeria-981c64595fe1) | 2023-01-21   | 3       |
+| [REFLECTING MY JOURNEY INTO BLOCKCHAIN](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | [Faizah Naserian](https://www.linkedin.com/in/faizah-naserian-190586131/)| [Link](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | 2023-01-14   | 2      |
+| [Understanding the Basics of Encoding and Decoding Digital Data: Unlocking the Mysteries](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | [Eazyisreal](https://medium.com/@eazyisreal192)| [Link](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | 2023-01-13   | 2      |
+| [5 Open Source Tools for your Ecommerce Stacks](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | [iribama](https://dev.to/rejoice)| [Link](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | 2023-02-01   | 5      |
+| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 5         |
+| [Programming As A Woman In Tech](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | [Chioma Uche-Nwosu](https://blog.openreplay.com/authors/chioma-uche-nwosu/) | [Link](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | 2023-02-14   | 6         |
+| [Technical Writing Template](https://www.fortuneikechi.com/blog/technical-writing-template) | [Fortune Ikechi](https://www.fortuneikechi.com/) | [Link](https://www.fortuneikechi.com/blog/technical-writing-template) | 2023-02-19  | 7        |
 
 ## Contributors 💪
 
