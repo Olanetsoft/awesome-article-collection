@@ -383,7 +383,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [REFLECTING MY JOURNEY INTO BLOCKCHAIN](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | [Faizah Naserian](https://www.linkedin.com/in/faizah-naserian-190586131/)| [Link](https://www.linkedin.com/pulse/reflecting-my-journey-blockchain-faizah-naserian/) | 2023-01-14   | 2      |
 | [Understanding the Basics of Encoding and Decoding Digital Data: Unlocking the Mysteries](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | [Eazyisreal](https://medium.com/@eazyisreal192)| [Link](https://medium.com/@eazyisreal192/understanding-the-basics-of-encoding-and-decoding-digital-data-unlocking-the-mysteries-e81c94851197) | 2023-01-13   | 2      |
 | [5 Open Source Tools for your Ecommerce Stacks](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | [iribama](https://dev.to/rejoice)| [Link](https://dev.to/rejoice/5-open-source-tools-for-your-ecommerce-stacks-nbl) | 2023-02-01   | 5      |
-| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 1         |
+| [Contributing to Open Source - Baby Steps](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | [Precious Onyewuchi](https://hashnode.com/@preshh0) | [Link](https://preshh0.hashnode.dev/contributing-to-open-source-baby-steps) | 2023-02-02   | 5         |
+| [Programming As A Woman In Tech](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | [Chioma Uche-Nwosu](https://blog.openreplay.com/authors/chioma-uche-nwosu/) | [Link](https://blog.openreplay.com/programming-as-a-woman-in-tech/) | 2023-02-14   | 6         |
 
 ## Contributors 💪
 
