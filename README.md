@@ -346,6 +346,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [The power of .NET Framework: An Overview of its Benefits](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | 2023-02-11  | 6      |
 | [A Beginners Guide to PHP(Hypertext Preprocessor): Part 1](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | [Olatunde Ibitoye](https://hashnode.com@horlartundhey)| [Link](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | 2023-02-13  | 6      |
 | [How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | [Abdulwahab Ashimi](https://twitter.com/adebowale1st)| [Link](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | 2023-02-14  | 6      |
+| [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | 2023-02-16  | 7      |
 
 
 
@@ -363,6 +364,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [14+ Best Freelance Websites to Find Work in 2023](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | [Kelvin Moses](https://hashnode.com/@Kelv) | [Link](https://iamkelv.hashnode.dev/14-best-freelance-websites-to-find-work-in-2023) | 2023-01-14   | 2           |
 | [Building your own LinkedIn Profile Scraper](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | [Tijan Ayomide](https://twitter.com/Tijan_io) | [Link](https://tijan.hashnode.dev/building-your-own-linkedin-profile-scraper) | 2023-01-18   | 2           |
+| [Discover the Wonders of Internet Protocols in Just a Few Minutes](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes) | [Etiene James](https://twitter.com/etienejames5) | [Link](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes) | 2023-01-16   | 7          |
 
 
 ## Others
