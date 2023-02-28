@@ -81,6 +81,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Real World Utilities for NFTs](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)          | [Ayodele Abraham](https://medium.com/@web3_ayo)             | [Link](https://medium.com/@web3_ayo/real-world-utilities-for-nfts-d89f1706b787)        | 2023-01-10   | 1         |
 | [A Guide to Blockchain Analytics 2: Analyzing Token Swap data using Flipside](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics-2-analyzing-token-swap-data-using-flipside)        | 2023-01-21   | 3      |
 | [A Guide To Blockchain Analytics 1](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)          | [Alokam Chinenye Augusta](https://hashnode.com/@Augusta)             | [Link](https://alokamca.hashnode.dev/a-guide-to-blockchain-analytics)      | 2023-01-14   | 2     |
+| [Securing Digital Identity with Blockchain: A Simple Guide](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)          | [SuperheroJT](https://twitter.com/SuperheroJT)             | [Link](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)      | 2023-02-27   | 4     |
 ## Cloud Engineering
 
 | Article Title | Author | Article | Article Date | Week Number |
@@ -286,6 +287,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Migrating Content Between Environments Using Import Export Entries Plugin](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | [Abdulwahab Ashimi](https://strapi.io/user/abdulwahab-ashimi)| [Link](https://strapi.io/blog/migrating-content-between-environments-using-import-export-entries-plugin) | 2023-01-11   | 2         |
 | [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks) | 2023-01-21   | 3         |
 | [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications) | 2023-01-23   | 4        |
+| [Memory Management In Python](https://superhero.hashnode.dev/memory-management-in-python) | [SuperheroJT](https://twitter.com/SuperheroJT)| [Link](https://superhero.hashnode.dev/memory-management-in-python) | 2023-02-21   | 3        |
 
 ---
 
