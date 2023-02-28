@@ -297,6 +297,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Introduction to TypeORM and its features](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)  | [Etiene James](https://twitter.com/etienejames5)           | [Link](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)    | 2023-02-07  | 5 |
 | [Building a simple Calculator App with HTML, CSS, and JavaScript](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)  | [Udom Iniobong](https://twitter.com/IniobongUdom3)           | [Link](https://iniobongudom.hashnode.dev/building-a-simple-calculator-app-with-html-css-and-javascript)    | 2023-02-08  | 6 |
 | [How to make a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)  | [Iqma](https://twitter.com/Iqma__)           | [Link](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)    | 2023-02-11  | 6 |
+| [A Beginners Guide to Pinia](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)  | [Alabo Excel](https://twitter.com/alaboExcel)           | [Link](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)    | 2023-02-18  | 7 |
 
 
 
