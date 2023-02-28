@@ -90,6 +90,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [4 tools to 3x your productivity in Remix as a solidity developer](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | [Dliteofficial](https://www.twitter.com/dlite_official) | [Link](https://dliteofficial.hashnode.dev/increase-your-productivity-as-a-solidity-developer) | 2023-02-08 | 6 |
 | [Unlocking the Benefits of Smart Contract Security Auditing](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | [Odewole Babatunde Samson](https://twitter.com/big_sam28) | [Link](https://bigsam.hashnode.dev/unlocking-the-benefits-of-smart-contract-security-auditing) | 2023-02-06 | 5 |
 | [Deploying a custom-created cryptocurrency on the Ethereum network.](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | [Michael Etokakpan](https://twitter.com/Imohgenius) | [Link](https://github.com/Olanetsoft/awesome-article-collection/pull/152) | 2023-02-11 | 6 |
+| [ An Introduction to Zero-Knowledge Proofs and Their Impact in Blockchain](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | [Adebayo Oluwaseun](https://twitter.com/seunbayong) | [Link](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | 2023-02-14 | 6 |
 
 
 ## Cloud Engineering
@@ -345,6 +346,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [React’s state management: When to use Redux, Recoil, and Hooks.](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | [Isaac Etor](https://isaacetor.medium.com/)| [Link](https://isaacetor.medium.com/reacts-state-management-when-to-use-redux-recoil-and-hooks-55eb22ce3d15) | 2023-02-12  | 6      |
 | [The power of .NET Framework: An Overview of its Benefits](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/the-power-of-net-framework-an-overview-of-its-benefits) | 2023-02-11  | 6      |
 | [A Beginners Guide to PHP(Hypertext Preprocessor): Part 1](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | [Olatunde Ibitoye](https://hashnode.com@horlartundhey)| [Link](https://horlartundhey.hashnode.dev/a-beginners-guide-to-phphypertext-preprocessor-part-1) | 2023-02-13  | 6      |
+| [How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | [Abdulwahab Ashimi](https://twitter.com/adebowale1st)| [Link](https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/) | 2023-02-14  | 6      |
 
 
 
