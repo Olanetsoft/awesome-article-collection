@@ -302,6 +302,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to make a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)  | [Iqma](https://twitter.com/Iqma__)           | [Link](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)    | 2023-02-11  | 6 |
 | [A Beginners Guide to Pinia](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)  | [Alabo Excel](https://twitter.com/alaboExcel)           | [Link](https://alabo-excel.hashnode.dev/a-beginners-guide-to-pinia)    | 2023-02-18  | 7 |
 | [The Power of Books in Programming](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | [Etomchukwu Oguejiofor](https://twitter.com/etoogueji)| [Link](https://etoogueji.hashnode.dev/the-power-of-books-in-programming) | 2023-02-19  | 7      |
+| [Memory Management In Python](https://superhero.hashnode.dev/memory-management-in-python) | [Ademola Thompson](https://twitter.com/SuperheroJT)| [Link](https://superhero.hashnode.dev/memory-management-in-python) | 2023-02-21  | 7      |
 
 
 
