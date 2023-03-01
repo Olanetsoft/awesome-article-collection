@@ -93,7 +93,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [ An Introduction to Zero-Knowledge Proofs and Their Impact in Blockchain](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | [Adebayo Oluwaseun](https://twitter.com/seunbayong) | [Link](https://seunbayo.hashnode.dev/an-introduction-to-zero-knowledge-proofs-and-their-impact-in-blockchain) | 2023-02-14 | 6 |
 | [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)        | [KHADIJAH](https://twitter.com/_khadeeejah?s=21)    | [Link](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)    | 2023-01-26  | 4          |
 | [Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)        | [Olanetsoft](https://twitter.com/olanetsoft)    | [Link](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)    | 2023-01-17  | 7         |
-
+| [Securing Digital Identity with Blockchain: A Simple Guide](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)          | [SuperheroJT](https://twitter.com/SuperheroJT)             | [Link](https://superhero.hashnode.dev/securing-digital-identity-with-blockchain-a-simple-guide)      | 2023-02-27   | 4     |
 
 ## Cloud Engineering
 
@@ -357,7 +357,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | [Etiene James](https://twitter.com/etienejames5)| [Link](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about) | 2023-02-16  | 7      |
 | [Understanding How To Add Multimedia to Your Website](https://helenefebe.hashnode.dev/understanding-how-to-add-multimedia-to-your-website) | [Helen Efebe](https://twitter.com/helenefebe)| [Link](https://helenefebe.hashnode.dev/understanding-how-to-add-multimedia-to-your-website) | 2023-02-19  | 7      |
 | [How to Develop a Sign up and Sign in Page using React by Replicating LinkedIn's Sign Up Page](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page) | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)| [Link](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page) | 2023-02-20  | 7      |
-
+| [Memory Management In Python](https://superhero.hashnode.dev/memory-management-in-python) | [SuperheroJT](https://twitter.com/SuperheroJT)| [Link](https://superhero.hashnode.dev/memory-management-in-python) | 2023-02-21   | 3        |
 
 
 ---
