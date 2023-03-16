@@ -20,6 +20,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 ---
 
+
 ## Table of Contents
 
 - [Artificial Intelligence](#artificial-intelligence)
@@ -408,3 +409,4 @@ Thanks a lot for spending your time helping `Awesome Article Collection` grow. H
 ## Stargazers ⭐️
 
 [![Stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-article-collection?limit=15)](https://github.com/Olanetsoft/awesome-article-collection)
+[Go to top](#artificial-intelligence)
