@@ -389,6 +389,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Programming As A Woman In Tech](https://blog.openreplay.com/programming-as-a-woman-in-tech/)                                                                                                                                    | [Chioma Uche-Nwosu](https://blog.openreplay.com/authors/chioma-uche-nwosu/) | [Link](https://blog.openreplay.com/programming-as-a-woman-in-tech/)                                                                           | 2023-02-14   | 6           |
 | [Technical Writing Template](https://www.fortuneikechi.com/blog/technical-writing-template)                                                                                                                                      | [Fortune Ikechi](https://www.fortuneikechi.com/)                            | [Link](https://www.fortuneikechi.com/blog/technical-writing-template)                                                                         | 2023-02-19   | 7           |
 | [Understanding APIs: A Beginner's Primer](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | 2023-03-02 | 9 |
+| [A Beginner's Guide to Java Basics](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-15 | 11 |
 
 
 
