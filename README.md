@@ -22,8 +22,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 
 ## Table of Contents
-<a name="artificial-intelligence"></a>
-## Artificial Intelligence {#artificial-intelligence}
+
+- [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Cloud Engineering](#cloud-engineering)
 - [Cyber Security](#cyber-security)
