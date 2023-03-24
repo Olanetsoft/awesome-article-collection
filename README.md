@@ -408,6 +408,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Technical Writing Template](https://www.fortuneikechi.com/blog/technical-writing-template)                                                                                                                                      | [Fortune Ikechi](https://www.fortuneikechi.com/)                            | [Link](https://www.fortuneikechi.com/blog/technical-writing-template)                                                                         | 2023-02-19   | 7           |
 | [Unlocking Your Potential: Strategies for Achieving Personal and Professional Growth](https://codeprophet.hashnode.dev/personal-and-professional-growth)   | [Emmanuel Obi](https://twitter.com/koliko_man) | [Link](https://codeprophet.hashnode.dev/personal-and-professional-growth)  | 2023-02-24   | 8          |
 | [Starting Your Tech Career: Practical Tips and Strategies](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)   | [Glory Olaifa](https://twitter.com/kheeng_splash) | [Link](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)  | 2023-02-25   | 8          |
+| [My 2022 Year in Review: Stepping into Growth](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)   | [Victor Ikechukwu](https://twitter.com/Victor_codejs) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)  | 2023-02-26   | 8          |
 
 
 
