@@ -313,6 +313,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Unlock the Secrets of Array Manipulation—Learn How to Add and Find Elements with Ease!](https://peacesandy.hashnode.dev/unlock-the-secrets-of-array-manipulationlearn-how-to-add-and-find-elements-with-ease)                                                                                                                            | [Peace Sandy](http://twitter.com/PeaceSandy3)        | [Link](https://peacesandy.hashnode.dev/unlock-the-secrets-of-array-manipulationlearn-how-to-add-and-find-elements-with-ease)                                                              | 2023-03-06   | 7           |
 | [Understanding APIs: A Beginner's Primer](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | 2023-03-02 | 9 |
 | [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | 2023-02-24 | 8 |
+| [How to containerize a NestJs app with Docker](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | [Joseph Tsegen](https://twitter.com/Tsegs_tech) | [Link](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | 2023-02-28 | 8 |
 
 ---
 
