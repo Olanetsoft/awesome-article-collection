@@ -362,6 +362,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to Develop a Sign up and Sign in Page using React by Replicating LinkedIn's Sign Up Page](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page)                | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)                | [Link](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page)      | 2023-02-20   | 7           |
 | [A Beginner's Guide to Java Basics](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-15 | 11 |
 | [Exploring the Basics of Objects and Methods in Java](https://dev.to/jacobe/exploring-the-basics-of-objects-and-methods-in-java-3dec) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-19 | 11 |
+| [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | [Velda Kiara](https://twitter.com/VeldaKiar) | [Link](ttps://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | 2023-02-23 | 8 |
 
 
 
