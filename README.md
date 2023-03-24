@@ -96,6 +96,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)                                               | [Olanetsoft](https://twitter.com/olanetsoft)              | [Link](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)                                         | 2023-01-17   | 7           |
 | [Building a lottery smart contract using chainlink VRF](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf) | [Chinwizu](https://twitter.com/chinwizu)                  | [Link](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf)                                                                 | 2023-03-07   | 10          |
 | [Uniswap v2 Deconstructed: How It Works](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works) | [Abimbola Adebayo](https://twitter.com/mr_abims)| [Link](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works)| 2023-02-02   | 5          |
+| [How I Built a 3D Web3 Game with Thirdweb Unity SDK](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk) | [Mide Sofek](https://twitter.com/midesofek)| [Link](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk)| 2023-02-25   | 8          |
 
 ## Cloud Engineering
 
