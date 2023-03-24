@@ -249,6 +249,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How To Publish Your Android App on Google Play Store.](https://chibundumozia.hashnode.dev/how-to-publish-your-android-app-on-google-play-store)                                                                                                        | [Chukwuechezonam](https://twitter.com/chibundu_)          | [Link](https://chibundumozia.hashnode.dev/how-to-publish-your-android-app-on-google-play-store)                                                   | 2023-02-07   | 5           |
 | [Unlock the Power Of The Terminal On Your Mobile Phone with Termux: An Easy Step-by-Step Installation Guide](https://obikaviola.hashnode.dev/unlock-the-power-of-the-terminal-on-your-mobile-phone-with-termux-an-easy-step-by-step-installation-guide) | [Onyinyechi Viola Obika](https://twitter.com/obika_viola) | [Link](https://obikaviola.hashnode.dev/unlock-the-power-of-the-terminal-on-your-mobile-phone-with-termux-an-easy-step-by-step-installation-guide) | 2023-02-20   | 7           |
 | [Dealing With Flutter Bugs From A Front End Developer's Perspective.](https://chibundumozia.hashnode.dev/dealing-with-flutter-bugs-from-a-front-end-developers-perspective) | [Chukwuechezonam❤](https://twitter.com/chibundu_) | [Link](https://chibundumozia.hashnode.dev/dealing-with-flutter-bugs-from-a-front-end-developers-perspective) | 2023-02-24  | 8         |
+| [How to install and Setup Termux on Android: A beginner's guide](https://techwithdavid.hashnode.dev/how-to-install-and-setup-termux-on-android-a-beginners-guide) | [Olasunkanmi Fabusuyi (David)](https://twitter.com/techguy_daveed) | [Link](https://techwithdavid.hashnode.dev/how-to-install-and-setup-termux-on-android-a-beginners-guide) | 2023-03-01  | 9        |
 
 ---
 
@@ -314,6 +315,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Understanding APIs: A Beginner's Primer](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6) | 2023-03-02 | 9 |
 | [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | 2023-02-24 | 8 |
 | [How to containerize a NestJs app with Docker](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | [Joseph Tsegen](https://twitter.com/Tsegs_tech) | [Link](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | 2023-02-28 | 8 |
+
 
 ---
 
