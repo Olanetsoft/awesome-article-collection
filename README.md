@@ -97,7 +97,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a lottery smart contract using chainlink VRF](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf) | [Chinwizu](https://twitter.com/chinwizu)                  | [Link](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf)                                                                 | 2023-03-07   | 10          |
 | [Uniswap v2 Deconstructed: How It Works](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works) | [Abimbola Adebayo](https://twitter.com/mr_abims)| [Link](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works)| 2023-02-02   | 5          |
 | [How I Built a 3D Web3 Game with Thirdweb Unity SDK](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk) | [Mide Sofek](https://twitter.com/midesofek)| [Link](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk)| 2023-02-25   | 8          |
-| [How to Create an NFT Token: Deploying an NFT Smart Contract on Ethereum](https://blog.michaeltech.xyz/how-to-create-an-nft-token) | [Michael Etokakpan](hhttps://twitter.com/Imohgenius)| [Link](https://blog.michaeltech.xyz/how-to-create-an-nft-token)| 2023-02-27   | 8          |
+| [How to Create an NFT Token: Deploying an NFT Smart Contract on Ethereum](https://blog.michaeltech.xyz/how-to-create-an-nft-token) | [Michael Etokakpan](https://twitter.com/Imohgenius)| [Link](https://blog.michaeltech.xyz/how-to-create-an-nft-token)| 2023-02-27   | 8          |
+| [Create Better Content with These AI Tools](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023) | [Olanetsoft](https://twitter.com/olanetsoft)|  [Link](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023) 2023-03-02   | 9          |
 
 ## Cloud Engineering
 
