@@ -97,7 +97,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a lottery smart contract using chainlink VRF](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf) | [Chinwizu](https://twitter.com/chinwizu)                  | [Link](https://chinwizu.hashnode.dev/building-a-lottery-smart-contract-using-chainlink-vrf)                                                                 | 2023-03-07   | 10          |
 | [Uniswap v2 Deconstructed: How It Works](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works) | [Abimbola Adebayo](https://twitter.com/mr_abims)| [Link](https://abimboladebayo.hashnode.dev/uniswap-v2-deconstructed-how-it-works)| 2023-02-02   | 5          |
 | [How I Built a 3D Web3 Game with Thirdweb Unity SDK](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk) | [Mide Sofek](https://twitter.com/midesofek)| [Link](https://midesofek.hashnode.dev/how-i-built-a-3d-web3-game-with-thirdweb-unity-sdk)| 2023-02-25   | 8          |
-| [How to Create an NFT Token: Deploying an NFT Smart Contract on Ethereum](https://blog.michaeltech.xyz/how-to-create-an-nft-token) | [Michael Etokakpan](hhttps://twitter.com/Imohgenius)| [Link](https://blog.michaeltech.xyz/how-to-create-an-nft-token)| 2023-02-27   | 8          |
+| [How to Create an NFT Token: Deploying an NFT Smart Contract on Ethereum](https://blog.michaeltech.xyz/how-to-create-an-nft-token) | [Michael Etokakpan](https://twitter.com/Imohgenius)| [Link](https://blog.michaeltech.xyz/how-to-create-an-nft-token)| 2023-02-27   | 8          |
+| [Create Better Content with These AI Tools](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023) | [Olanetsoft](https://twitter.com/olanetsoft)|  [Link](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023) 2023-03-02   | 9          |
 
 ## Cloud Engineering
 
@@ -124,6 +125,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------ | ----------- |
 | [The Ultimate Guide to Choosing between Data Science and Data Analytics](https://medium.com/@ukpowehonome/the-ultimate-guide-to-choosing-between-data-science-and-data-analytics-d4aa7f42576d) |[Ukpoweh Gift](https://medium.com/@ukpowehonome)  | [Link](https://medium.com/@ukpowehonome/the-ultimate-guide-to-choosing-between-data-science-and-data-analytics-d4aa7f42576d)  | 2023-03-06 | 1    | 
 | [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06) | [Ukpoweh Gift](https://medium.com/@ukpowehonome) | [Link](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31   | 5           |
+| [Connect & Analyze Your Data with the Power BI API](https://adamtheautomator.com/power-bi-api/) | [Sophia Iroegbu](https://adamtheautomator.com/author/sophia-iroegbu/) | [Link](https://adamtheautomator.com/power-bi-api/)  | 2023-03-01   | 9         |
 
 
 
@@ -320,6 +322,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | 2023-02-24 | 8 |
 | [How to containerize a NestJs app with Docker](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | [Joseph Tsegen](https://twitter.com/Tsegs_tech) | [Link](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | 2023-02-28 | 8 |
 | [Debugging Dilemmas: A Comedic Journey Through the Code.](https://itsjustchioma.hashnode.dev/debugging-dilemmas-a-comedic-journey-through-the-code) | [Chioma Uche-Nwosu](https://hashnode.com/@itsjustchioma) | [Link](https://itsjustchioma.hashnode.dev/debugging-dilemmas-a-comedic-journey-through-the-code) | 2023-02-28 | 8 |
+| [The Diataxis Framework](https://preshh0.hashnode.dev/the-diataxis-framework) | [Precious Onyewuchi](https://hashnode.com/@Preshh0) | [Link](https://preshh0.hashnode.dev/the-diataxis-framework) | 2023-03-06 | 9 |
 
 
 ---
@@ -375,7 +378,9 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to Develop a Sign up and Sign in Page using React by Replicating LinkedIn's Sign Up Page](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page)                | [Dahunsi Timmy](https://twitter.com/Timmy_deey/)                | [Link](https://timmydahunsi.hashnode.dev/how-to-develop-a-sign-up-and-sign-in-page-using-react-by-replicating-linkedins-sign-up-page)      | 2023-02-20   | 7           |
 | [A Beginner's Guide to Java Basics](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-15 | 11 |
 | [Exploring the Basics of Objects and Methods in Java](https://dev.to/jacobe/exploring-the-basics-of-objects-and-methods-in-java-3dec) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-19 | 11 |
-| [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | [Velda Kiara](https://twitter.com/VeldaKiar) | [Link](ttps://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | 2023-02-23 | 8 |
+| [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | [Velda Kiara](https://twitter.com/VeldaKiar) | [Link](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | 2023-02-23 | 8 |
+| [A Beginner's Guide to Building Powerful APIs with GraphQL](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar) | [Link](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | 2023-03-03 | 9 |
+| [The ABCs of NodeJS Security: Understanding Common Terminology](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev) | [Link](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | 2023-03-03 | 9 |
 
 
 
@@ -420,6 +425,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Starting Your Tech Career: Practical Tips and Strategies](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)   | [Glory Olaifa](https://twitter.com/kheeng_splash) | [Link](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)  | 2023-02-25   | 8          |
 | [My 2022 Year in Review: Stepping into Growth](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)   | [Victor Ikechukwu](https://twitter.com/Victor_codejs) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)  | 2023-02-26   | 8          |
 | [Staying relevant in tech - Practical Tips and Strategies](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)   | [Glory Olaifa](https://twitter.com/kheeng_splash) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)  | 2023-02-27   | 8          |
+| [The Anatomy of a Programmable Logic Controller: Understanding its Design and Architecture.](https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)   | [dvrvsimi](https://medium.com/@daraakojede01) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)  | 2023-03-02   | 9         |
 
 
 
