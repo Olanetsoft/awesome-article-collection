@@ -420,6 +420,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Starting Your Tech Career: Practical Tips and Strategies](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)   | [Glory Olaifa](https://twitter.com/kheeng_splash) | [Link](https://gloryolaifa.hashnode.dev/starting-your-tech-career-practical-tips-and-strategies)  | 2023-02-25   | 8          |
 | [My 2022 Year in Review: Stepping into Growth](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)   | [Victor Ikechukwu](https://twitter.com/Victor_codejs) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)  | 2023-02-26   | 8          |
 | [Staying relevant in tech - Practical Tips and Strategies](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)   | [Glory Olaifa](https://twitter.com/kheeng_splash) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-growth)  | 2023-02-27   | 8          |
+| [The Anatomy of a Programmable Logic Controller: Understanding its Design and Architecture.](https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)   | [dvrvsimi](https://medium.com/@daraakojede01) | [Link](https://vickyikechukwu.hashnode.dev/my-2022-year-in-review-stepping-into-https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)  | 2023-03-02   | 9         |
 
 
 
