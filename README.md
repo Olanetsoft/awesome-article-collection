@@ -321,6 +321,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | [Olanetsoft](https://twitter.com/olanetsoft) | [Link](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide) | 2023-02-24 | 8 |
 | [How to containerize a NestJs app with Docker](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | [Joseph Tsegen](https://twitter.com/Tsegs_tech) | [Link](https://tsegsxaviers.hashnode.dev/how-to-containerize-a-nestjs-app-with-docker) | 2023-02-28 | 8 |
 | [Debugging Dilemmas: A Comedic Journey Through the Code.](https://itsjustchioma.hashnode.dev/debugging-dilemmas-a-comedic-journey-through-the-code) | [Chioma Uche-Nwosu](https://hashnode.com/@itsjustchioma) | [Link](https://itsjustchioma.hashnode.dev/debugging-dilemmas-a-comedic-journey-through-the-code) | 2023-02-28 | 8 |
+| [The Diataxis Framework](https://preshh0.hashnode.dev/the-diataxis-framework) | [Precious Onyewuchi](https://hashnode.com/@Preshh0) | [Link](https://preshh0.hashnode.dev/the-diataxis-framework) | 2023-03-06 | 9 |
 
 
 ---
