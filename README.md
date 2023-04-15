@@ -124,6 +124,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------ | ----------- |
 | [The Ultimate Guide to Choosing between Data Science and Data Analytics](https://medium.com/@ukpowehonome/the-ultimate-guide-to-choosing-between-data-science-and-data-analytics-d4aa7f42576d) |[Ukpoweh Gift](https://medium.com/@ukpowehonome)  | [Link](https://medium.com/@ukpowehonome/the-ultimate-guide-to-choosing-between-data-science-and-data-analytics-d4aa7f42576d)  | 2023-03-06 | 1    | 
 | [Tackling the Health Crises in Africa](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06) | [Ukpoweh Gift](https://medium.com/@ukpowehonome) | [Link](https://medium.com/@ukpowehonome/tack;ing-the-health-crises-in-africa-d00bf6d45c06) | 2023-01-31   | 5           |
+| [Connect & Analyze Your Data with the Power BI API](https://adamtheautomator.com/power-bi-api/) | [Sophia Iroegbu](https://adamtheautomator.com/author/sophia-iroegbu/) | [Link](https://adamtheautomator.com/power-bi-api/)  | 2023-03-01   | 9         |
 
 
 
