@@ -378,6 +378,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Exploring the Basics of Objects and Methods in Java](https://dev.to/jacobe/exploring-the-basics-of-objects-and-methods-in-java-3dec) | [Isah Jacob](https://sparkly-sable-b6d1d5.netlify.app/) | [Link](https://dev.to/jacobe/a-beginners-guide-to-java-basics-26jn) | 2023-03-19 | 11 |
 | [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | [Velda Kiara](https://twitter.com/VeldaKiar) | [Link](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | 2023-02-23 | 8 |
 | [A Beginner's Guide to Building Powerful APIs with GraphQL](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar) | [Link](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | 2023-03-03 | 9 |
+| [The ABCs of NodeJS Security: Understanding Common Terminology](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev) | [Link](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | 2023-03-03 | 9 |
 
 
 
