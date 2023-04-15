@@ -381,6 +381,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | [Velda Kiara](https://twitter.com/VeldaKiar) | [Link](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/) | 2023-02-23 | 8 |
 | [A Beginner's Guide to Building Powerful APIs with GraphQL](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | [Abdulfatai Mukhtar](https://twitter.com/DevMukhtar) | [Link](https://mukhtar.hashnode.dev/a-beginners-guide-to-building-powerful-apis-with-graphql) | 2023-03-03 | 9 |
 | [The ABCs of NodeJS Security: Understanding Common Terminology](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | [Alao Abiodun AbdulRahman](https://twitter.com/abiodundev) | [Link](https://abiodundev.hashnode.dev/the-abcs-of-nodejs-security-understanding-common-terminology) | 2023-03-03 | 9 |
+| [The Struggle is Real: My Journey with CSS Debugging](https://sunkanmi.tech/the-struggle-is-real-my-journey-with-css-debugging) | [Sunkanmi Fafowora](https://twitter.com/the_jonin_?s=08) | [Link](https://sunkanmi.tech/the-struggle-is-real-my-journey-with-css-debugging) | 2023-03-06 | 9 |
 
 
 
