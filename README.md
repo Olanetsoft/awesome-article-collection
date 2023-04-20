@@ -395,6 +395,8 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [A Beginner's Guide To Integrating Next.Js And Mailtrap For Seamless Email Testing](https://blog.openreplay.com/integrating-nextjs-and-mailtrap-for-seamless-email-testing/)                                                                                                              | [Divine Orji](https://blog.openreplay.com/authors/divine-orji/)        | [Link](https://blog.openreplay.com/integrating-nextjs-and-mailtrap-for-seamless-email-testing/)                                                           | 2023-03-08   | 10           |
 | [Medusa vs Shopify](https://sophyia.me/medusa-vs-shopify)                                                                                                              | [Sophia Iroegbu](https://twitter.com/sophiairoegbu_)        | [Link](https://sophyia.me/medusa-vs-shopify)                                                           | 2023-03-13   | 10           |
 
+| [How DOM Works in JavaScript](https://helenefebe.hashnode.dev/how-dom-works-in-javascript)                                                                                                              | [Helen Efebe](https://twitter.com/helenefebe)        | [Link](hhttps://helenefebe.hashnode.dev/how-dom-works-in-javascript)                                                           | 2023-03-15   | 11          |
+
 ---
 
 ## Startups
