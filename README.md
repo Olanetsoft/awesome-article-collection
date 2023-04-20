@@ -332,6 +332,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Approaches to Writing Memory Safe C++](https://medium.com/@dencomac/approaches-to-writing-memory-safe-c-e502c6a57762)   | [Dennis O.](https://medium.com/@dencomac)        | [Link](https://medium.com/@dencomac/approaches-to-writing-memory-safe-c-e502c6a57762)                                                                     | 2023-03-06 | 9           |
 | [Structs in Julia](https://hashnode.ifihan.dev/structs-in-julia)   | [Ifihan Olusheye](https://twitter.com/Ifihan_)        | [Link](https://hashnode.ifihan.dev/structs-in-julia)                                                                     | 2023-03-10 | 10       |
 | [Practical Guide to Web-scraping in Python](https://dev.to/jeremiahjacinth13/practical-guide-to-web-scraping-in-python-28ba)   | [Lena Jeremiah](https://github.com/Jeremiahjacinth13)        | [Link](https://dev.to/jeremiahjacinth13/practical-guide-to-web-scraping-in-python-28ba)                                                                     | 2023-03-17 | 11       |
+| [Exploring the Basics of Objects and Methods in Java](https://dev.to/jacobe/exploring-the-basics-of-objects-and-methods-in-java-3dec)   | [Isah Jacob](https://github.com/Enecode)        | [Link](https://dev.to/jacobe/exploring-the-basics-of-objects-and-methods-in-java-3dec)                                                                     | 2023-03-19 | 11       |
 
 ---
 
