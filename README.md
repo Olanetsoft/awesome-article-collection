@@ -396,6 +396,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Medusa vs Shopify](https://sophyia.me/medusa-vs-shopify)                                                                                                              | [Sophia Iroegbu](https://twitter.com/sophiairoegbu_)        | [Link](https://sophyia.me/medusa-vs-shopify)                                                           | 2023-03-13   | 10           |
 
 | [How DOM Works in JavaScript](https://helenefebe.hashnode.dev/how-dom-works-in-javascript)                                                                                                              | [Helen Efebe](https://twitter.com/helenefebe)        | [Link](hhttps://helenefebe.hashnode.dev/how-dom-works-in-javascript)                                                           | 2023-03-15   | 11          |
+| [CSS Sizing Units: Everything You Need To Know](https://cessa.hashnode.dev/css-sizing-units-everything-you-need-to-know)                                                                                                              | [Igirigba Princess Mmazule](https://twitter.com/Mmazule_)        | [Link](https://cessa.hashnode.dev/css-sizing-units-everything-you-need-to-know)                                                           | 2023-03-16   | 11          |
 
 ---
 
