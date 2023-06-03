@@ -367,6 +367,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Building a Lightweight Web Server with Golang](https://thecodeway.hashnode.dev/building-a-lightweight-web-server-with-golang) | [Ayanwola Ayomide](https://hashnode.com/@netrobe) | [Link](https://thecodeway.hashnode.dev/building-a-lightweight-web-server-with-golang) | 2023-04-19 | 3 |
 | [Working with strings effectively with Golang](https://thecodeway.hashnode.dev/working-with-strings-effectively-with-golang) | [Ayanwola Ayomide](https://hashnode.com/@netrobe) | [Link](https://thecodeway.hashnode.dev/working-with-strings-effectively-with-golang) | 2023-04-19 | 3 |
 | [Learn Python Decorators from Basic to Pro in 10 mins](https://thecodeway.hashnode.dev/learn-python-decorators-from-basic-to-pro-in-10-mins) | [Ayanwola Ayomide](https://hashnode.com/@netrobe) | [Link](https://thecodeway.hashnode.dev/learn-python-decorators-from-basic-to-pro-in-10-mins) | 2023-04-19 | 3 |
+| [CSS Tutorial](https://markodenic.com/css-tutorial/) | [Marko](https://markodenic.com) | [Link](https://markodenic.com/css-tutorial/) | 2023-05-17 | 1 |
 
 
 ---
