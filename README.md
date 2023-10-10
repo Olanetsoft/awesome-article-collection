@@ -261,9 +261,9 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [What is Machine Learning](https://iqmacodes.hashnode.dev/what-is-machine-learning) | [Olawore Hikmah](https://twitter.com/Iqma__)  | [Link](https://iqmacodes.hashnode.dev/what-is-machine-learning) | 15-Oct-2022 | Nil |
-| [NLP Tutorial – Text Pre-Processing Techniques for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)  | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/) | 12-July-2023 | Nil |
 | [Machine Learning Termininologies](https://iqmacodes.hashnode.dev/machine-learning-terminologies) | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/machine-learning-terminologies) | 13-Nov-2022 | Nil |
 |   [What is Supervised Learning](https://iqmacodes.hashnode.dev/what-is-supervised-learning)  | [Olawore Hikmah(Iqma)](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/what-is-supervised-learning) | 23-March-2023 | Nil |
+| [NLP Tutorial – Text Pre-Processing Techniques for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)  | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/) | 12-July-2023 | Nil |
 | [How to Run All Cells in Google Collab](https://iqmacodes.hashnode.dev/how-to-run-all-cells-in-google-colab) | [ Olawore Hikmah (Iqma)](https://twitter.com/Iqma__)  | [Link](https://iqmacodes.hashnode.dev/how-to-run-all-cells-in-google-colab) | 27-Sep-2023  |  Nil |
 
 
