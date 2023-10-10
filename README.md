@@ -143,6 +143,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Securing Your Server with Certbot: A Step-by-Step Guide to Easy SSL Installation.](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation) | [Olumide Micheal](https://hashnode.com/@codewithmide) | [Link](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation) | 2023-01-14   | 2           |
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)                                                                                            | [Tijan Ayomide](https://twitter.com/Tijan_io)         | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)                                                  | 2023-01-21   | 3           |
 | [The Ultimate Security Guide: Why Defence in Depth Is Vital for Your Cyber Security Strategy](https://omotayo.hashnode.dev/the-ultimate-security-guide-why-defence-in-depth-is-vital-for-your-cyber-security-strate)| [Mustafa Umar Omotayo](https://twitter.com/real_omotayo)         | [Link](https://omotayo.hashnode.dev/the-ultimate-security-guide-why-defence-in-depth-is-vital-for-your-cyber-security-strate)                                                  | 2023-05-28   | 20 |
+| [An Introduction to cybersecurity](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity) | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity) | 9-Oct-2023 | Nil |
 
 ## Data Science
 
@@ -262,7 +263,12 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
-|               |        |         |              |             |
+| [What is Machine Learning](https://iqmacodes.hashnode.dev/what-is-machine-learning) | [Olawore Hikmah](https://twitter.com/Iqma__)  | [Link](https://iqmacodes.hashnode.dev/what-is-machine-learning) | 15-Oct-2022 | Nil |
+| [Machine Learning Termininologies](https://iqmacodes.hashnode.dev/machine-learning-terminologies) | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/machine-learning-terminologies) | 13-Nov-2022 | Nil |
+|   [What is Supervised Learning](https://iqmacodes.hashnode.dev/what-is-supervised-learning)  | [Olawore Hikmah(Iqma)](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/what-is-supervised-learning) | 23-March-2023 | Nil |
+| [NLP Tutorial – Text Pre-Processing Techniques for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)  | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/) | 12-July-2023 | Nil |
+| [How to Run All Cells in Google Collab](https://iqmacodes.hashnode.dev/how-to-run-all-cells-in-google-colab) | [ Olawore Hikmah (Iqma)](https://twitter.com/Iqma__)  | [Link](https://iqmacodes.hashnode.dev/how-to-run-all-cells-in-google-colab) | 27-Sep-2023  |  Nil |
+
 
 ---
 
