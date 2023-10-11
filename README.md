@@ -569,6 +569,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Technical roles in tech.](https://chibundumozia.hashnode.dev/technical-roles-in-tech) | [Chukwuechezonam❤](https://twitter.com/chibundu_)                               | [Link](https://chibundumozia.hashnode.dev/technical-roles-in-tech) | 2023-04-26   | 16        |
 | [What PayPal Open-Sourcing JunoDB Means for Developers](https://www.makeuseof.com/what-paypal-open-sourcing-junodb-means-for-developers/) | [Princewill Inyang](https://twitter.com/princewillingoo)                               | [Link](https://www.makeuseof.com/what-paypal-open-sourcing-junodb-means-for-developers/) | 2023-06-19   | 23 |
 | [My Burnout Story: Reflection, Healing & Rediscovery.](https://codeprophet.hashnode.dev/my-burnout-story) | [Emmanuel Obi](https://twitter.com/koliko_man)                               | [Link](https://codeprophet.hashnode.dev/my-burnout-story) | 2023-06-21   | 23 |
+| [From customer success engineer to software engineer: My one year journey at hashnode](https://unclebigbay.com/from-customer-success-engineer-to-software-engineer-my-one-year-journey-at-hashnode)   | [Uncle Bigbay](https://twitter.com_)        | [Link](https://unclebigbay.com/from-customer-success-engineer-to-software-engineer-my-one-year-journey-at-hashnode)                                                                     | 2023-07-00 |   27     |
 
 ## Contributors 💪
 
