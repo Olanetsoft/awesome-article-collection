@@ -148,6 +148,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [SSL 101 - Securing Your Online Presence](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)                                                                                            | [Tijan Ayomide](https://twitter.com/Tijan_io)         | [Link](https://tijan.hashnode.dev/ssl-101-securing-your-online-presence)                                                  | 2023-01-21   | 3           |
 | [The Ultimate Security Guide: Why Defence in Depth Is Vital for Your Cyber Security Strategy](https://omotayo.hashnode.dev/the-ultimate-security-guide-why-defence-in-depth-is-vital-for-your-cyber-security-strate)| [Mustafa Umar Omotayo](https://twitter.com/real_omotayo)         | [Link](https://omotayo.hashnode.dev/the-ultimate-security-guide-why-defence-in-depth-is-vital-for-your-cyber-security-strate)                                                  | 2023-05-28   | 20 |
 | [An Introduction to cybersecurity](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity) | [Olawore Hikmah](https://twitter.com/Iqma__) | [Link](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity) | 9-Oct-2023 | Nil |
+| [How to Protect Your Website Against SEO Poisoning](https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/) | [Isah Jacob](https://www.freecodecamp.org/news/author/jacob-isah/) | [Link](https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/) | 2023-08-22 | 34 |
 
 ## Data Science
 
