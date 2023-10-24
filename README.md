@@ -53,6 +53,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 
 ---
 
+<!-- prettier-ignore-start --> 
 ## Artificial Intelligence
 
 | Article Title                                                                                                                                                                  | Author                                    | Article                                                                                                   | Article Date | Week Number |
@@ -581,6 +582,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [My Burnout Story: Reflection, Healing & Rediscovery.](https://codeprophet.hashnode.dev/my-burnout-story) | [Emmanuel Obi](https://twitter.com/koliko_man)                               | [Link](https://codeprophet.hashnode.dev/my-burnout-story) | 2023-06-21   | 23 |
 | [From customer success engineer to software engineer: My one year journey at hashnode](https://unclebigbay.com/from-customer-success-engineer-to-software-engineer-my-one-year-journey-at-hashnode)   | [Uncle Bigbay](https://twitter.com_)        | [Link](https://unclebigbay.com/from-customer-success-engineer-to-software-engineer-my-one-year-journey-at-hashnode)                                                                     | 2023-07-00 |   27     |
 
+<!-- prettier-ignore-end -->
 ## Contributors 💪
 
 Thanks a lot for spending your time helping `Awesome Article Collection` grow. Happy Hacking 🍻
