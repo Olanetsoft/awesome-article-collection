@@ -424,6 +424,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 | [Higher order array methods](https://dewaley.hashnode.dev/higher-order-array-methods)   | [Dewaley](https://twitter.com/_)        | [Link](https://dewaley.hashnode.dev/higher-order-array-methods)                                               |                            2023-07-00 |   26     |
 | [Mastering generics in typescript](https://blog.jamiin.com/mastering-generics-in-typescript)   | [Jamin](https://twitter.com/_)        | [Link](https://blog.jamiin.com/mastering-generics-in-typescript)                                               | 2023-07-00 |   26     |
 | [Kelpalvault: securely share your secrets](https://hashnode.timonwa.com/kelpalvault-securely-share-your-secrets)   | [Timonwa](https://twitter.com/timonwa_)        | [Link](https://hashnode.timonwa.com/kelpalvault-securely-share-your-secrets)                                            | 2023-07-00 |   26     |
+| [Maximizing Your Server's Potential: How to Deploy a Linux, Apache, MySQL and PHP(LAMP) Stack on Debian 11](https://tech502.hashnode.dev/maximizing-your-servers-potential-how-to-deploy-a-linux-apache-mysql-and-phplamp-stack-on-debian-11)   | [Angel's Blog](https://hashnode.com/@Angelica)        | [Link](https://tech502.hashnode.dev/maximizing-your-servers-potential-how-to-deploy-a-linux-apache-mysql-and-phplamp-stack-on-debian-11)                                            | 2023-09-02 |   35     |
 
 ---
 
